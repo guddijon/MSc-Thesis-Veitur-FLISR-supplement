@@ -1,0 +1,196 @@
+station,bay,adms_devices,role,manufacturer,Ir_bay_A,relay_trip_A,model_object,model_class,model_usage,current_type_Inom_kA
+D1001,1,B11-101(630) + T11-101(630),ring/line,EATON,630,,,,,
+D1001,2,B11-102(630) + T11-102(630),ring/line,EATON,630,,,,,
+D1001,3,R11-103(200) + T11-103(630),transformer bay,EATON,200,28.6,Cub_D1001_S-11-01_HV,StaSwitch,cbk,"0,04"
+D1002,1,B-11-01(200),transformer bay,,200,63,Cub_D1002_S-11-01_HV,StaSwitch,cbk,"0,04"
+D1002,2,B-11-02(630),ring/line,,630,,1002-1-2,ElmCoup,sdc,0
+D1002,3,B-11-03(630),ring/line,,630,,1002-1-3,ElmCoup,sdc,0
+D1003,1,B-11-01(630),ring/line,,630,,,,,
+D1003,2,B-11-02(200),transformer bay,,200,50,Cub_D1003_S-11-01_HV,StaSwitch,cbk,"0,04"
+D1003,3,B-11-03(630),ring/line,,630,,1003-1-3,ElmCoup,sdc,"0,04"
+D1003,4,B-11-04(630),ring/line,,630,,1003-1-4,ElmCoup,sdc,"0,04"
+D1003,5,B-11-05(630),ring/line,,630,,1003-1-5,ElmCoup,sdc,"0,04"
+D1003,6,B-11-06(630),ring/line,,630,,1003-1-6,ElmCoup,sdc,0
+D1004,1,R11-101(200) + T11-101(630),transformer bay,EATON,200,74.8,Cub_D1004_S-11-01_HV,StaSwitch,cbk,"0,04"
+D1004,2,B11-102(630) + T11-102(630),ring/line,EATON,630,,1004-1-2,ElmCoup,sdc,"0,04"
+D1004,3,B11-103(630) + T11-103(630),ring/line,EATON,630,,1004-1-3,ElmCoup,sdc,"0,04"
+D1004,4,R11-104(200) + T11-104(630),transformer bay,EATON,200,,,,,
+D1005,1,B-11-01(400),ring/line,,400,,1005-1-1,ElmCoup,sdc,"0,04"
+D1005,2,B-11-02(630),ring/line,,630,,1005-1-2,ElmCoup,sdc,"0,04"
+D1005,3,B-11-03(630),ring/line,,630,,1005-1-3,ElmCoup,sdc,"0,04"
+D1005,4,B-11-04(630),ring/line,,630,,1005-1-4,ElmCoup,sdc,"0,04"
+D1005,5,B-11-05(630),transformer bay,,630,125,Cub_D1005_S-11-01_HV,StaSwitch,cbk,"0,04"
+D1005,6,B-11-06(630),transformer bay,,630,125,Cub_D1005_S-11-02_HV,StaSwitch,cbk,"0,04"
+D1005,7,B-11-07(630),transformer bay,,630,125,Cub_D1005_S-11-03_HV,StaSwitch,cbk,"0,04"
+D1008,1,B-11-01(630),ring/line,,630,,1008-1-1,ElmCoup,sdc,0
+D1008,2,B-11-02(630),transformer bay,,630,63,Cub_D1008_S-11-01_HV,StaSwitch,cbk,"0,04"
+D1008,3,B-11-03(200),transformer bay,,200,63,,,,
+D1008,4,B-11-04(630),ring/line,,630,,1008-1-4,ElmCoup,sdc,0
+D1009,1,B-11-01(630),ring/line,,630,,,,,
+D1009,2,B-11-02(630),ring/line,,630,,,,,
+D1009,3,B-11-03(200),transformer bay,,200,80,Cub_D1009_S-11-01_HV,StaSwitch,cbk,"0,04"
+D1009,4,B-11-04(200),transformer bay,,200,80,,,,
+D1011,1,B-11-01(630),ring/line,,630,,,,,
+D1011,2,B-11-02(630),ring/line,,630,,,,,
+D1011,3,B-11-03(200),transformer bay,,200,63,Cub_D1011_S-11-01_HV,StaSwitch,cbk,"0,04"
+D1012,1,B-11-01(630),ring/line,,630,,1012-1-1,ElmCoup,sdc,0
+D1012,2,B-11-02(630),ring/line,,630,,1012-1-2,ElmCoup,sdc,0
+D1012,3,B-11-03(630),ring/line,,630,,1012-1-3,ElmCoup,sdc,0
+D1012,4,B-11-04(200),transformer bay,,200,50,Cub_D1012_S-11-01_HV,StaSwitch,cbk,"0,04"
+D1013,1,B-11-01(630),ring/line,,630,,1013-1-1,ElmCoup,sdc,"0,04"
+D1013,2,B-11-02(630),ring/line,,630,,1013-1-2,ElmCoup,sdc,"0,04"
+D1013,3,B-11-03(630),ring/line,,630,,1013-1-3,ElmCoup,sdc,"0,04"
+D1013,4,B-11-04(200),transformer bay,,200,63,Cub_D1013_S-11-01_HV,StaSwitch,cbk,"0,04"
+D1014,1,B-11-01(400),transformer bay,,400,63,Cub_D1014_S-11-01_HV,StaSwitch,cbk,"0,04"
+D1014,2,B-11-02(400),ring/line,,400,,1014-1-2,ElmCoup,sdc,0
+D1014,3,B-11-03(400),ring/line,,400,,1014-1-3,ElmCoup,sdc,0
+D1015,1,B-11-01(630),ring/line,,630,,1015-1-1,ElmCoup,sdc,"0,04"
+D1015,2,B-11-02(630),ring/line,,630,,1015-1-2,ElmCoup,sdc,"0,04"
+D1015,3,B-11-03(200),transformer bay,,200,63,Cub_D1015_S-11-01_HV,StaSwitch,cbk,"0,04"
+D1016,1,B-11-01(630),ring/line,,630,,1016-1-1,ElmCoup,sdc,0
+D1016,2,B-11-02(630),ring/line,,630,,1016-1-2,ElmCoup,sdc,0
+D1016,3,B-11-03(200),transformer bay,,200,63,Cub_D1016_S-11-01_HV,StaSwitch,cbk,"0,04"
+D1017,1,B-11-01(200),transformer bay,,200,,Cub_D1017_S-11-01_HV,StaSwitch,cbk,"0,04"
+D1018,1,B-11-01(630),ring/line,,630,,1018-1-1,ElmCoup,sdc,"0,04"
+D1018,2,B-11-02(630),ring/line,,630,,1018-1-2,ElmCoup,sdc,0
+D1018,3,B-11-03(200),transformer bay,,200,125,Cub_D1018_S-11-01_HV,StaSwitch,cbk,"0,04"
+D1019,1,B-11-01(630),ring/line,,630,,1019-1-1,ElmCoup,sdc,"0,04"
+D1019,2,B-11-02(630),ring/line,,630,,,,,
+D1019,3,B-11-03(200),transformer bay,,200,63,Cub_D1019_S-11-01_HV,StaSwitch,cbk,"0,04"
+D1020,1,B-11-01(630),ring/line,,630,,1020-1-1,ElmCoup,sdc,"0,04"
+D1020,2,B-11-02(630),ring/line,,630,,1020-1-2,ElmCoup,sdc,"0,04"
+D1020,3,B-11-03(630),ring/line,,630,,1020-1-3,ElmCoup,sdc,0
+D1020,4,B-11-04(630),ring/line,,630,,1020-1-4,ElmCoup,sdc,"0,04"
+D1020,5,B-11-05(200),transformer bay,,200,63,Cub_D1020_S-11-01_HV,StaSwitch,cbk,"0,04"
+D1021,1,B-11-01(630),ring/line,,630,,1021-1-1,ElmCoup,sdc,"0,04"
+D1021,2,R-11-02(200),transformer bay,,200,28.8,Cub_D1021_S-11-01_HV,StaSwitch,cbk,"0,04"
+D1021,3,B-11-03(630),ring/line,,630,,1021-1-3,ElmCoup,sdc,"0,04"
+D1022,1,B-11-01(630),ring/line,,630,,,,,
+D1022,2,B-11-02(630),ring/line,,630,,,,,
+D1022,3,B-11-03(630),transformer bay,,630,80,Cub_D1022_S-11-01_HV,StaSwitch,cbk,"0,04"
+D1023,1,B-11-01(630),ring/line,SIEMENS,630,,1023-1-1,ElmCoup,sdc,"0,04"
+D1023,2,B-11-02(630),ring/line,SIEMENS,630,,1023-1-2,ElmCoup,sdc,"0,04"
+D1023,3,R-11-03(200),transformer bay,SIEMENS,200,48.4,Cub_D1023_S-11-01_HV,StaSwitch,cbk,"0,04"
+D1025,1,B11-101(630),ring/line,ABB,630,,1025-1-1,ElmCoup,sdc,"0,04"
+D1025,2,B11-102(630),ring/line,ABB,630,,1025-1-2,ElmCoup,sdc,"0,04"
+D1025,3,R11-103(-) + T11-103(630),transformer bay,ABB,630,,Cub_D1025_S-11-01_HV,StaSwitch,cbk,"0,04"
+D1026,1,B11-101(630) + T11-101(630),ring/line,EATON,630,,,,,
+D1026,2,B11-102(630) + T11-102(630),ring/line,EATON,630,,,,,
+D1026,3,R11-103(200) + T11-103(630),transformer bay,EATON,200,,Cub_D1026_S-11-01_HV,StaSwitch,cbk,"0,04"
+D1027,1,B-11-01(630),ring/line,,630,,1027-1-1,ElmCoup,sdc,"0,04"
+D1027,2,B-11-02(630),ring/line,,630,,1027-1-2,ElmCoup,sdc,"0,04"
+D1027,3,B-11-03(200),transformer bay,,200,63,Cub_D1027_S-11-01_HV,StaSwitch,cbk,"0,04"
+D1028,1,B-11-01(630),ring/line,,630,,1028-1-1,ElmCoup,sdc,"0,04"
+D1028,2,B-11-02(630),ring/line,,630,,,,,
+D1028,3,B-11-03(630),ring/line,,630,,,,,
+D1028,4,B-11-04(630),ring/line,,630,,1028-1-4,ElmCoup,sdc,"0,04"
+D1028,5,B-11-05(200),transformer bay,,200,63,Cub_D1028_S-11-01_HV,StaSwitch,cbk,"0,04"
+D1029,1,B11-101(630) + T11-101(630),ring/line,EATON,630,,1029-1-1,ElmCoup,sdc,"0,04"
+D1029,2,B11-102(630) + T11-102(630),ring/line,EATON,630,,1029-1-2,ElmCoup,sdc,"0,04"
+D1029,3,R11-103(200) + T11-103(630),transformer bay,EATON,200,63,Cub_D1029_S-11-01_HV,StaSwitch,cbk,"0,04"
+D1030,1,B11-101(600) + T11-101(600),ring/line,EATON,600,,1030-1-1,ElmCoup,sdc,"0,04"
+D1030,2,B11-102(600) + T11-102(600),ring/line,EATON,600,,1030-1-2,ElmCoup,sdc,"0,04"
+D1030,3,R11-103(200) + T11-103(600),transformer bay,EATON,200,46,Cub_D1030_S-11-01_HV,StaSwitch,cbk,"0,04"
+D1031,1,B-11-01(630),ring/line,,630,,1031-1-1,ElmCoup,sdc,"0,04"
+D1031,2,B-11-02(630),ring/line,,630,,1031-1-2,ElmCoup,sdc,"0,04"
+D1031,3,B-11-03(630) + B-11-03(630),ring/line,,630,,,,,
+D1031,4,R-11-04(200) + T-11-04(200),transformer bay,SIEMENS,200,20,Cub_D1031_S-11-01_HV,StaSwitch,cbk,"0,04"
+D1032,1,B-11-01(630),ring/line,,630,,1032-1-1,ElmCoup,sdc,"0,04"
+D1032,2,B-11-02(630),ring/line,,630,,1032-1-2,ElmCoup,sdc,"0,04"
+D1032,3,B-11-03(630),transformer bay,,630,100,Cub_D1032_S-11-01_HV,StaSwitch,cbk,"0,04"
+D1034,1,B11-101(630) + T11-101(-),ring/line,EATON,630,,,,,
+D1034,2,B11-102(630) + T11-102(-),ring/line,EATON,630,,,,,
+D1034,3,R11-103(200) + T11-103(-),transformer bay,EATON,200,48.8,Cub_D1034_S-11-01_HV,StaSwitch,cbk,"0,04"
+D1036,1,B-11-01(630),ring/line,,630,,1036-1-1,ElmCoup,sdc,"0,04"
+D1036,2,B-11-02(630),ring/line,,630,,1036-1-2,ElmCoup,sdc,"0,04"
+D1036,3,B-11-03(200),transformer bay,,200,63,Cub_D1036_S-11-01_HV,StaSwitch,cbk,"0,04"
+D1040,1,B-11-01(630),ring/line,,630,,1040-1-1,ElmCoup,sdc,"0,04"
+D1040,2,B-11-02(630),ring/line,,630,,1040-1-2,ElmCoup,sdc,"0,04"
+D1040,3,B-11-03(630),transformer bay,,630,63,Cub_D1040_S-11-01_HV,StaSwitch,cbk,"0,04"
+D1040,5,B-11-05(630),transformer bay,,630,100,Cub_D1040_S-11-02_HV,StaSwitch,cbk,"0,04"
+D1040,6,B-11-06(630),transformer bay,,630,100,Cub_D1040_S-11-03_HV,StaSwitch,cbk,"0,04"
+D1041,1,B-11-01(200),transformer bay,,200,50,Cub_D1041_S-11-01_HV,StaSwitch,cbk,"0,04"
+D1041,2,B-11-02(630),ring/line,,630,,1041-1-2,ElmCoup,sdc,"0,04"
+D1041,3,B-11-03(630),ring/line,,630,,1041-1-3,ElmCoup,sdc,"0,04"
+D1041,4,B-11-04(200),transformer bay,,200,80,,,,
+D1042,1,B-11-01(630),ring/line,EFACEC,630,,,,,
+D1042,2,B-11-02(630),ring/line,,630,,,,,
+D1042,3,B-11-03(200),transformer bay,EFACEC,200,63,Cub_D1042_S-11-01_HV,StaSwitch,cbk,"0,04"
+D1043,1,B-11-01(630),ring/line,,630,,,,,
+D1043,2,B-11-02(630),ring/line,,630,,1043-1-2,ElmCoup,sdc,"0,04"
+D1043,3,B-11-03(200),transformer bay,,200,63,Cub_D1043_S-11-01_HV,StaSwitch,cbk,"0,04"
+D1045,1,B-11-01(200),transformer bay,,200,25,Cub_D1045_S-11-01_HV,StaSwitch,cbk,"0,04"
+D1046,1,B-11-01(630),ring/line,,630,,1046-1-1,ElmCoup,sdc,"0,04"
+D1046,2,B-11-02(630),ring/line,,630,,,,,
+D1046,3,B-11-03(200),transformer bay,,200,80,Cub_D1046_S-11-01_HV,StaSwitch,cbk,"0,04"
+D1046,4,B-11-04(200),transformer bay,,200,80,Cub_D1046_S-11-02_HV,StaSwitch,cbk,"0,04"
+D1049,1,B-11-01(200),transformer bay,,200,50,Cub_D1049_S-11-01_HV,StaSwitch,cbk,"0,04"
+D1049,2,B-11-02(630),ring/line,,630,,1049-1-2,ElmCoup,sdc,"0,04"
+D1049,3,B-11-03(630),ring/line,,630,,,,,
+D1049,4,B-11-04(200),transformer bay,,200,,Cub_D1049_S-11-02_HV,StaSwitch,cbk,"0,04"
+D1050,1,B-11-01(630),ring/line,,630,,1050-1-1,ElmCoup,sdc,"0,04"
+D1050,2,B-11-02(630),ring/line,,630,,1050-1-2,ElmCoup,sdc,"0,04"
+D1050,3,B-11-03(200),transformer bay,,200,50,Cub_D1050_S-11-01_HV,StaSwitch,cbk,"0,04"
+D1051,1,B-11-01(630),ring/line,,630,,,,,
+D1051,2,B-11-02(630),ring/line,,630,,1051-1-2,ElmCoup,sdc,"0,04"
+D1051,3,B-11-03(630),ring/line,,630,,1051-1-3,ElmCoup,sdc,"0,04"
+D1051,4,B-11-04(200),transformer bay,,200,50,Cub_D1051_S-11-01_HV,StaSwitch,cbk,"0,04"
+D1052,1,B-11-01(630),ring/line,,630,,,,,
+D1052,2,B-11-02(630),ring/line,,630,,,,,
+D1052,3,B-11-03(200),transformer bay,,200,100,Cub_D1052_S-11-01_HV,StaSwitch,cbk,"0,04"
+D1053,1,R-11-01(200),transformer bay,,200,79.2,Cub_D1053_S-11-01_HV,StaSwitch,cbk,"0,04"
+D1053,2,B-11-02(630),ring/line,,630,,,,,
+D1053,3,B-11-03(630),ring/line,,630,,,,,
+D1053,4,R-11-04(200),transformer bay,,200,48.4,Cub_D1053_S-11-02_HV,StaSwitch,cbk,"0,04"
+D1054,1,R-11-01(630),transformer bay,SCHNEIDER,630,,Cub_D1054_S-11-01_HV,StaSwitch,cbk,"0,04"
+D1054,2,B-11-02(630),ring/line,SCHNEIDER,630,,1054-1-2,ElmCoup,sdc,"0,04"
+D1054,3,R-11-03(630),transformer bay,SCHNEIDER,630,30,,,,
+D1054,4,B-11-04(630),ring/line,SCHNEIDER,630,,1054-1-4,ElmCoup,sdc,"0,04"
+D1055,1,B-11-01(630) + T-11-01(630),ring/line,ZUPE,630,,1055-1-1,ElmCoup,sdc,"0,04"
+D1055,2,B-11-02(630),ring/line,ZUPE,630,,1055-1-2,ElmCoup,sdc,"0,04"
+D1055,3,R-11-03(630),transformer bay,ZUPE,630,31.2,Cub_D1055_S-11-01_HV,StaSwitch,cbk,"0,04"
+D1056,1,B11-101(600) + T11-101(600),ring/line,EATON,600,,1056-1-1,ElmCoup,sdc,"0,04"
+D1056,2,B11-102(600) + T11-102(600),ring/line,EATON,600,,1056-1-2,ElmCoup,sdc,"0,04"
+D1056,3,R11-103(200) + T11-103(600),transformer bay,EATON,200,28.6,Cub_D1056_S-11-01_HV,StaSwitch,cbk,"0,04"
+D1057,1,B-11-01(630),ring/line,,630,,,,,
+D1057,2,B-11-02(630),ring/line,,630,,,,,
+D1057,3,B-11-03(630),transformer bay,,630,63,Cub_D1057_S-11-01_HV,StaSwitch,cbk,"0,04"
+D1058,1,R-11-01(200) + T-11-01(200),transformer bay,,200,31.2,Cub_D1058_S-11-01_HV,StaSwitch,cbk,"0,04"
+D1058,2,B-11-02(630),ring/line,,630,,1058-1-2,ElmCoup,sdc,"0,04"
+D1058,3,B-11-03(630),ring/line,,630,,1058-1-3,ElmCoup,sdc,"0,04"
+D1059,1,B11-101(630) + T11-101(630),ring/line,,630,,,,,
+D1059,2,B11-102(630) + T11-102(630),ring/line,,630,,1059-1-2,ElmCoup,sdc,"0,04"
+D1059,3,R11-103(630) + T11-103(630),transformer bay,,630,29.9,Cub_D1059_S-11-01_HV,StaSwitch,cbk,"0,04"
+D1061,1,B11-101(630) + T11-101(630),ring/line,EATON,630,,1061-1-1,ElmCoup,sdc,"0,04"
+D1061,2,B11-102(630) + T11-102(630),ring/line,EATON,630,,1061-1-2,ElmCoup,sdc,"0,04"
+D1061,3,R11-103(200) + T11-103(630),transformer bay,EATON,200,46,Cub_D1061_S-11-01_HV,StaSwitch,cbk,"0,04"
+D1062,1,B11-101(630) + T11-101(630),ring/line,EATON,630,,1062-1-1,ElmCoup,sdc,"0,04"
+D1062,2,B11-102(630) + T11-102(630),ring/line,EATON,630,,1062-1-2,ElmCoup,sdc,"0,04"
+D1062,3,R11-103(200) + T11-103(630),transformer bay,EATON,200,29.9,Cub_D1062_S-11-01_HV,StaSwitch,cbk,"0,04"
+D1066,1,B11-101(630) + T11-101(630),ring/line,EATON,630,,1066-1-1,ElmCoup,sdc,"0,04"
+D1066,2,B11-102(630) + T11-102(630),ring/line,EATON,630,,1066-1-2,ElmCoup,sdc,"0,04"
+D1066,3,R11-103(200) + T11-103(630),transformer bay,EATON,200,48,Cub_D1066_S-11-01_HV,StaSwitch,cbk,"0,04"
+D1067,1,R11-101(200) + T11-101(630),transformer bay,EATON,200,48,Cub_D1067_S-11-01_HV,StaSwitch,cbk,"0,04"
+D1067,2,B11-102(630) + T11-102(630),ring/line,EATON,630,,1067-1-2,ElmCoup,sdc,"0,04"
+D1067,3,B11-103(630) + T11-103(630),ring/line,EATON,630,,1067-1-3,ElmCoup,sdc,"0,04"
+D1067,4,R11-104(200) + T11-104(630),transformer bay,EATON,200,48,Cub_D1067_S-11-02_HV,StaSwitch,cbk,"0,04"
+D1068,1,B11-101(630) + T11-101(630),ring/line,EATON,630,,,,,
+D1068,2,B11-102(630) + T11-102(630),ring/line,EATON,630,,,,,
+D1068,3,R11-103(200) + T11-103(630),transformer bay,EATON,200,48,,,,
+D1069,1,B11-101(630) + T11-101(630),ring/line,EATON,630,,,,,
+D1069,2,B11-102(630) + T11-102(630),ring/line,EATON,630,,1069-1-2,ElmCoup,sdc,"0,04"
+D1069,3,B11-103(630) + T11-103(630),ring/line,EATON,630,,,,,
+D1069,4,R11-104(200) + T11-104(630),transformer bay,EATON,200,48,Cub_D1069_S-11-01_HV,StaSwitch,cbk,"0,04"
+D1070,1,B11-101(600) + T11-101(600),ring/line,EATON,600,,,,,
+D1070,2,B11-102(600) + T11-102(600),ring/line,EATON,600,,,,,
+D1070,3,R11-103(200) + T11-103(600),transformer bay,EATON,200,78.2,Cub_D1070_S-11-01_HV,StaSwitch,cbk,"0,04"
+D1071,1,B11-101(630) + T11-101(630),ring/line,EATON,630,,,,,
+D1071,2,B11-102(630) + T11-102(630),ring/line,EATON,630,,,,,
+D1071,3,B11-103(630) + T11-103(630),ring/line,EATON,630,,,,,
+D1071,4,R11-104(200) + T11-104(630),transformer bay,EATON,200,48.4,,,,
+D1071,5,B11-105(630) + T11-105(630),ring/line,EATON,630,,,,,
+D1071,6,B11-106(630) + T11-106(630),ring/line,EATON,630,,,,,
+D1071,7,R11-107(200) + T11-107(630),transformer bay,EATON,200,160,,,,
+D1072,1,B11-101(630) + B11-101(630) + T11-101(630) + T11-101(630),ring/line,,630,,,,,
+D1072,2,B11-102(630) + B11-102(630) + T11-102(630) + T11-102(630),ring/line,,630,,,,,
+D1072,3,R11-103(200) + R11-103(200) + T11-103(630) + T11-103(630),transformer bay,,200,73.6/73.6,,,,

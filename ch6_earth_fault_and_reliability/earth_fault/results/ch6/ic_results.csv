@@ -1,0 +1,19 @@
+key,system,config,shunt_target_A,energised_cable_km,IC_solid_A,largest_feeder,largest_feeder_A,largest_feeder_share_pct
+bb2,"Busbar 2 (circuits 08, 13)",split,,9.28,21.4,13,15.0,70
+bb2_40,Busbar 2 + shunt,split,40,9.28,40.0,13,15.0,38
+bb2_80,Busbar 2 + shunt,split,80,9.28,80.0,13,15.0,19
+bb2_120,Busbar 2 + shunt,split,120,9.28,120.0,13,15.0,13
+bb2_200,Busbar 2 + shunt,split,200,9.28,200.1,13,15.0,8
+bb1,Busbar 1,split,,25.36,60.9,22,13.8,23
+bb1_80,Busbar 1 + shunt,split,80,25.36,80.7,22,13.8,17
+bb1_120,Busbar 1 + shunt,split,120,25.36,120.7,22,13.8,11
+bb1_200,Busbar 1 + shunt,split,200,25.36,200.8,22,13.8,7
+coupled,Coupled busbars (N-1),coupled,,34.64,82.6,13,15.0,18
+post02,Busbar 1 after SCN-02 restoration,post02,,25.36,60.9,09,14.2,23
+post06,Busbar 1 after SCN-06 isolation,post06,,23.64,57.2,22,13.8,24
+post11,Busbar 1 after SCN-11 isolation,post11,,24.27,58.2,22,13.8,24
+post15,Busbar 1 after SCN-15 restoration,post15,,25.36,60.9,22,17.4,29
+bb1_xlpe_sens,"Busbar 1, cable set xlpe_sens",split,,,67.0,,,
+bb1_pilc_low,"Busbar 1, cable set pilc_low",split,,,57.3,,,
+bb1_c0_eq_c1,"Busbar 1, C0 = C1 (ADMS catalog, Table 4.x basis)",split,,,91.7,,,
+bb1_earthed,"Busbar 1, star points earthed (fault current, kA)",split,,,9.10,,,

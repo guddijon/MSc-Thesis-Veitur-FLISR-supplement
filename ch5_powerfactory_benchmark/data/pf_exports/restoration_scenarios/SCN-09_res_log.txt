@@ -1,0 +1,29 @@
+info - Operation Scenario    SCN-09_isolated was saved.
+warn - Scaling factor for load/generation circles must be adapted: See layer "   Load/generation distribution"
+info - Operation Scenario    SCN-09_isolated deactivated.
+warn - Scaling factor for load/generation circles must be adapted: See layer "   Load/generation distribution"
+info - Operation Scenario    SCN-09_restored activated.
+info - Operation Scenario    SCN-09_restored was saved.
+warn - Scaling factor for load/generation circles must be adapted: See layer "   Load/generation distribution"
+info - A calculation relevant object was changed.
+info - The calculation results have been deleted.
+info - Element '   Landsnet_66kV' is local reference in separated area of '   A20_66kV'
+warn -    2 area(s) are unsupplied.
+info - Grid split into 4 isolated areas
+info - Calculating load flow...
+info - -------------------------------------------------------------------------------------
+info - Start Newton-Raphson Algorithm...
+info - |------|-------------------------------------|-------------------------------------|-------------------------------------|----------------------------------------------|
+info - | Iter.| Max. bus equation error (MV)        | Max. bus equation error (LV)        | Max. model equation error           | Iteration step size                          |
+info - |------|-------------------------------------|-------------------------------------|-------------------------------------|----------------------------------------------|
+info - |    0 |    A20_BB1                 9.16e+00 |    D1005_LV02_0.4kV        4.01e-01 |    Landsnet_66kV           2.24e-16 |                                              |
+info - |    1 |    A20_BB1                 1.12e-10 |    D1005_LV02_0.4kV        3.29e-04 |    Load_D1005_S-11-02      2.98e-04 | Max. Step: 1,00e+00; Linesearch: 1,00e+00    |
+info - |    2 |    A20_BB1                 1.18e-10 |    D1005_LV02_0.4kV        2.12e-10 |    Load_D1005_S-11-02      2.12e-10 | Max. Step: 1,00e+00; Linesearch: 1,00e+00    |
+info - |------|-------------------------------------|-------------------------------------|-------------------------------------|----------------------------------------------|
+info - Newton-Raphson converged with 2 iterations.
+info - Load flow calculation successful.
+info - -------------------------------------------------------------------------------------
+            Report of Control Condition for Relevant Controllers
+       -------------------------------------------------------------------------------------
+info - Control conditions for all controllers of interest are fulfilled.
+warn - Scaling factor for load/generation circles must be adapted: See layer "   Load/generation distribution"

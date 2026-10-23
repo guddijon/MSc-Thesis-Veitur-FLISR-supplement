@@ -1,0 +1,8 @@
+snapshot,time,bus1_feeders,bus2_feeders,coupler,S1_on,S2_on,boiler,notes
+winter_peak_boiler_on,2023-03-24 20:30,"05,06,09,10,11,19,21,22","08,13",open,bus1,bus2,on via circuit 19 (D1056 Sementsreitur; ~200 A),"A20 points only; RMU D1026 only"
+winter_peak_boiler_off,2025-12-10 17:55,"05,06,09,10,11,19,21,22","08,13",open,bus1,bus2,off (204 withdrawn),"12 RMUs; 19 carries 0 A"
+winter_night_min,2025-12-25 06:25,"05,06,09,10,11,19,21,22","08,13",open,bus1,bus2,off,"12 RMUs"
+winter_peak_alt_mar26,2026-03-12 18:30,coupled,coupled,closed (since 2026-02-26),parallel,parallel,off,"abnormal: busbars coupled, transformers in parallel; use only as a coupled-bus check"
+summer_night_min,2026-08-03 06:15,"06,09,11,19,21,22","05,08,10,13",open,bus1,bus2,off,"13 RMUs (D1067 zero)"
+summer_peak,2026-08-24 18:45,"06,09,11,19,21,22","05,08,10,13",open,bus1,bus2,off,"13 RMUs; bus2 feeder sum 188 A = S2 188 A"
+display_2026-10-17,2026-10-17,"06,11,19,21","05,08,10,13",open,bus1,bus2,off,"09 and 22 withdrawn for cable work; 20 being re-purposed"

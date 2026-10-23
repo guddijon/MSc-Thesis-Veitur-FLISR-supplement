@@ -1,0 +1,20 @@
+feeder,busbar,I_meas,I_sim,scale_vs_base,n_substations,note
+A20-03,open,0.0,0,,0,no load
+A20-04,open,0.0,0.31,,7,offline sweep
+A20-05,1,27.73,27.73,0.4074,7,offline sweep
+A20-06,1,22.19,22.19,0.5761,7,offline sweep
+A20-08,2,8.3,8.3,0.6142,3,offline sweep
+A20-09,1,9.87,9.87,0.7533,3,offline sweep
+A20-10,1,13.33,13.33,0.3761,4,offline sweep
+A20-11,1,1.65,3.26,0.4661,3,not matchable: measured 1.65 A at or below the modelled charging current 3.35 A; loads set to the mean ratio of the other feeders
+A20-13,2,38.43,38.43,0.4084,12,offline sweep
+A20-14,open,0.0,0,,0,no load
+A20-15,open,0.0,0,,0,no load
+A20-17,open,0.0,0,,0,no load
+A20-18,open,0.0,0,,0,no load
+A20-19,1,0.0,1.94,0.4661,2,not matchable: measured 0.00 A at or below the modelled charging current 1.94 A; loads set to the mean ratio of the other feeders
+A20-20,open,0.0,0,,0,no load
+A20-21,1,15.73,15.73,0.4384,4,offline sweep
+A20-22,1,17.52,17.52,0.1549,7,offline sweep
+S1 (circuit 16),1,107.52,106.95,,,"busbar 1 11.226 kV, measured 11.17"
+S2 (circuit 07),2,43.9,46.61,,,"busbar 2 11.181 kV, measured 11.17"

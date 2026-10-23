@@ -1,0 +1,16 @@
+date,circuit,event_class,stations_out,first_restoration_min,last_restoration_min,customers_interrupted,customer_minutes
+2021-01-03,all (66 kV side),upstream,44,3,3,3384,10152
+2021-06-15,19,customer,1,364,364,0,0
+2021-11-04,21,mis-operation,5,1,1,737,737
+2021-11-03,11+19,11kV cable fault,13,99,154,308,33562
+2022-02-25,all (66 kV side),upstream,42,22,22,3059,67298
+2022-05-09,06,11kV cable fault,12,71,123,753,66906
+2022-11-13,22,overload trip,9,67,116,207,19414
+2022-11-13,22,overload trip,9,18,18,207,3726
+2022-12-26,08+13,11kV cable fault (x2),12,41,941,1413,485527
+2024-05-02,all (66 kV side),upstream,44,7,7,3123,21861
+2024-06-10,19,customer,2,24,24,16,384
+2024-10-14,"19 (+06, 11, 05)",11kV cable fault,17,31,125,1035,58074
+2025-02-11,13,11kV cable fault,7,90,92,623,56938
+2025-05-23,22,11kV equipment fault,7,58,478,92,5756
+2026-02-26,07,upstream,48,1,1,3187,3187

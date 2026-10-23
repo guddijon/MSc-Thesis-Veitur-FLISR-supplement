@@ -1,0 +1,16 @@
+system,location,bay,RF_0,RF_100,RF_300,RF_1000,RF_3000
+natural,"upstream FPI, bay facing the fault",D1066_102,10.96,10.39,7.74,3.15,1.09
+natural,"downstream FPI, bay facing the fault",D1025_101,7.29,6.91,5.15,2.09,0.73
+natural,healthy feeder head (circuit 08),A20_F08,-6.39,-6.06,-4.51,-1.84,-0.64
+40,"upstream FPI, bay facing the fault",D1066_102,29.55,25.00,13.91,4.68,1.58
+40,"downstream FPI, bay facing the fault",D1025_101,7.30,6.18,3.44,1.16,0.39
+40,healthy feeder head (circuit 08),A20_F08,-6.40,-5.42,-3.01,-1.02,-0.34
+80,"upstream FPI, bay facing the fault",D1066_102,69.68,43.16,17.91,5.56,1.86
+80,"downstream FPI, bay facing the fault",D1025_101,7.33,4.54,1.89,0.59,0.20
+80,healthy feeder head (circuit 08),A20_F08,-6.44,-3.99,-1.65,-0.51,-0.17
+120,"upstream FPI, bay facing the fault",D1066_102,109.89,51.06,19.15,5.85,1.96
+120,"downstream FPI, bay facing the fault",D1025_101,7.37,3.42,1.28,0.39,0.13
+120,healthy feeder head (circuit 08),A20_F08,-6.47,-3.00,-1.13,-0.34,-0.12
+200,"upstream FPI, bay facing the fault",D1066_102,190.49,57.03,20.07,6.08,2.03
+200,"downstream FPI, bay facing the fault",D1025_101,7.43,2.22,0.78,0.24,0.08
+200,healthy feeder head (circuit 08),A20_F08,-6.52,-1.95,-0.69,-0.21,-0.07

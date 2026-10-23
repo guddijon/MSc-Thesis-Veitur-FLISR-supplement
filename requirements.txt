@@ -1,0 +1,5 @@
+# tested with Python 3.13, numpy 2.5, matplotlib 3.11, schemdraw 0.23
+numpy>=1.26
+matplotlib>=3.8
+schemdraw>=0.19
+# optional, Chapter 2 figures only: networkx (Figure 2.5); pandas and openpyxl (Figure 2.23)

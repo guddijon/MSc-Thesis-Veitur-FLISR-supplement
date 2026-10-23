@@ -1,0 +1,17 @@
+-- Cable codes and lengths of the A020 cable groups (thesis Appendix B, Figure B.2).
+-- GE PowerOn ADMS, ENMAC schema as documented by the vendor. EMS class 4 is the cable class; the subquery selects
+-- the A020 cable groups, whose prefix differs from the substation alias A0020.
+
+SELECT
+    ch.COMPONENT_ALIAS AS Auto_Alias,
+    MAX(CASE WHEN pa.ATTRIBUTE_VALUE LIKE '%A020%' THEN pa.ATTRIBUTE_VALUE END) AS Cable_Group,
+    MAX(CASE WHEN pa.ATTRIBUTE_NAME = 'DPA Cable Code' THEN pa.ATTRIBUTE_VALUE END) AS Cable_Code,
+    MAX(CASE WHEN pa.ATTRIBUTE_NAME = 'DPA Length' THEN pa.ATTRIBUTE_VALUE END) AS Length_m
+FROM ENMAC.COMPONENT_HEADER ch
+JOIN ENMAC.COMPONENT_CLASS_DEFN ccd ON ch.COMPONENT_CLASS = ccd.COMPONENT_CLASS_INDEX
+LEFT JOIN ENMAC.COMPONENT_ATTRIBUTES pa ON ch.COMPONENT_ID = pa.COMPONENT_ID
+WHERE ccd.COMPONENT_EMS_CLASS_INDEX = 4
+    AND ch.COMPONENT_ID IN (
+        SELECT COMPONENT_ID FROM ENMAC.COMPONENT_ATTRIBUTES WHERE UPPER(ATTRIBUTE_VALUE) LIKE '%A020%'
+    )
+GROUP BY ch.COMPONENT_ALIAS;

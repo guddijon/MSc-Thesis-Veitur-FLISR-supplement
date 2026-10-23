@@ -1,0 +1,677 @@
+[
+ {
+  "id": "SCN-01",
+  "donor": "circuit 05 via D1022_B-11-01",
+  "steps": 2,
+  "iso_areas": [
+   5,
+   3
+  ],
+  "iso_changed": {
+   "10": 0.0,
+   "16": 277.3
+  },
+  "iso_lmax": [
+   49.3,
+   "A020-1019A05 (3 x 70 Cu 11kV)",
+   195.0,
+   96.16
+  ],
+  "res_areas": [
+   4,
+   2
+  ],
+  "res_changed": {
+   "05": 104.8,
+   "10": 0.0
+  },
+  "res_lmax": [
+   49.3,
+   "A020-1019A05 (3 x 70 Cu 11kV)",
+   195.0,
+   96.16
+  ],
+  "res_vmin": [
+   1.004,
+   "D1041_BB"
+  ],
+  "lim_dev": "A20_R11-105 104.8 A of 260 A",
+  "loading_pct": 40.3,
+  "sweep": {
+   "substations_off_after_isolation": "D1022 D1034 D1053 D1057",
+   "load_restored_kW": "624",
+   "load_still_out_kW": "0",
+   "vmin_pu": "1.004",
+   "loading_pct_alarm": "40.3",
+   "compliant": "yes"
+  }
+ },
+ {
+  "id": "SCN-02",
+  "donor": "circuit 09 via 1031-1-2",
+  "steps": 3,
+  "iso_areas": [
+   6,
+   4
+  ],
+  "iso_changed": {
+   "11": 0.4,
+   "16": 309.8
+  },
+  "iso_lmax": [
+   49.3,
+   "A020-1019A05 (3 x 70 Cu 11kV)",
+   195.0,
+   96.16
+  ],
+  "res_areas": [
+   5,
+   3
+  ],
+  "res_changed": {
+   "09": 15.8,
+   "11": 0.4,
+   "16": 311.7
+  },
+  "res_lmax": [
+   49.3,
+   "A020-1019A05 (3 x 70 Cu 11kV)",
+   195.0,
+   96.16
+  ],
+  "res_vmin": [
+   1.004,
+   "D1041_BB"
+  ],
+  "lim_dev": "A20_R11-109 15.8 A of 160 A",
+  "loading_pct": 9.9,
+  "sweep": {
+   "substations_off_after_isolation": "D1054 D1055 D1067",
+   "load_restored_kW": "28",
+   "load_still_out_kW": "19",
+   "vmin_pu": "1.004",
+   "loading_pct_alarm": "9.9",
+   "compliant": "yes"
+  }
+ },
+ {
+  "id": "SCN-03",
+  "donor": "circuit 13 via 1058-1-2",
+  "steps": 3,
+  "iso_areas": [
+   5,
+   3
+  ],
+  "iso_changed": {
+   "07": 106.6,
+   "08": 10.8
+  },
+  "iso_lmax": [
+   49.3,
+   "A020-1019A05 (3 x 70 Cu 11kV)",
+   195.0,
+   96.16
+  ],
+  "res_areas": [
+   4,
+   2
+  ],
+  "res_changed": {
+   "08": 10.8,
+   "13": 98.7
+  },
+  "res_lmax": [
+   50.8,
+   "A020-1019A05 (3 x 70 Cu 11kV)",
+   195.0,
+   98.98
+  ],
+  "res_vmin": [
+   1.003,
+   "D1045_BB"
+  ],
+  "lim_dev": "A20_R11-213 98.7 A of 160 A",
+  "loading_pct": 61.7,
+  "sweep": {
+   "substations_off_after_isolation": "D1062",
+   "load_restored_kW": "34",
+   "load_still_out_kW": "0",
+   "vmin_pu": "1.003",
+   "loading_pct_alarm": "61.7",
+   "compliant": "yes"
+  }
+ },
+ {
+  "id": "SCN-04",
+  "donor": "circuit 08 via 1058-1-2",
+  "steps": 3,
+  "iso_areas": [
+   5,
+   3
+  ],
+  "iso_changed": {
+   "07": 53.4,
+   "13": 39.8
+  },
+  "iso_lmax": [
+   36.3,
+   "A020-1028A03 (3 x 240 Al 11kV)",
+   325.0,
+   117.44
+  ],
+  "res_areas": [
+   4,
+   2
+  ],
+  "res_changed": {
+   "08": 69.6,
+   "13": 39.8
+  },
+  "res_lmax": [
+   36.3,
+   "A020-1028A03 (3 x 240 Al 11kV)",
+   325.0,
+   117.44
+  ],
+  "res_vmin": [
+   1.009,
+   "D1025_BB"
+  ],
+  "lim_dev": "A20_R11-208 69.6 A of 200 A",
+  "loading_pct": 34.8,
+  "sweep": {
+   "substations_off_after_isolation": "D1025 D1027 D1030 D1041 D1045 D1050 D1051 D1058",
+   "load_restored_kW": "1009",
+   "load_still_out_kW": "0",
+   "vmin_pu": "1.009",
+   "loading_pct_alarm": "34.8",
+   "compliant": "yes"
+  }
+ },
+ {
+  "id": "SCN-05",
+  "donor": "circuit 22 via 1005-1-1",
+  "steps": 2,
+  "iso_areas": [
+   5,
+   3
+  ],
+  "iso_changed": {
+   "16": 313.5,
+   "22": 118.2
+  },
+  "iso_lmax": [
+   49.3,
+   "A020-1019A05 (3 x 70 Cu 11kV)",
+   195.0,
+   96.16
+  ],
+  "res_areas": [
+   4,
+   2
+  ],
+  "res_changed": {
+   "16": 508.7,
+   "22": 313.9
+  },
+  "res_lmax": [
+   96.7,
+   "A020-1028A06 (3 x 240 Al 11 kV)",
+   325.0,
+   314.11
+  ],
+  "res_vmin": [
+   0.999,
+   "D1003_BB"
+  ],
+  "lim_dev": "A20_R11-122 313.9 A of 260 A",
+  "loading_pct": 120.7,
+  "sweep": {
+   "substations_off_after_isolation": "boiler network (3800 kW)",
+   "load_restored_kW": "3800",
+   "load_still_out_kW": "0",
+   "vmin_pu": "0.999",
+   "loading_pct_alarm": "120.8",
+   "compliant": "no (short-time only); 4.9 MW: no"
+  }
+ },
+ {
+  "id": "SCN-06",
+  "donor": "none",
+  "steps": 2,
+  "iso_areas": [
+   5,
+   3
+  ],
+  "iso_changed": {
+   "09": 2.9,
+   "16": 302.3
+  },
+  "iso_lmax": [
+   49.3,
+   "A020-1019A05 (3 x 70 Cu 11kV)",
+   195.0,
+   96.16
+  ],
+  "res_vmin": [
+   1.004,
+   "D1041_BB"
+  ],
+  "sweep": {
+   "substations_off_after_isolation": "D1032 D1043",
+   "load_restored_kW": "-22",
+   "load_still_out_kW": "198",
+   "vmin_pu": "1.004",
+   "loading_pct_alarm": "",
+   "compliant": "yes"
+  }
+ },
+ {
+  "id": "SCN-07",
+  "donor": "circuit 22 via 1003-1-6",
+  "steps": 2,
+  "iso_areas": [
+   6,
+   4
+  ],
+  "iso_changed": {
+   "16": 276.1,
+   "21": 0.7
+  },
+  "iso_lmax": [
+   49.3,
+   "A020-1019A05 (3 x 70 Cu 11kV)",
+   195.0,
+   96.16
+  ],
+  "res_areas": [
+   5,
+   3
+  ],
+  "res_changed": {
+   "22": 144.8,
+   "21": 0.7,
+   "16": 303.5
+  },
+  "res_lmax": [
+   49.3,
+   "A020-1019A05 (3 x 70 Cu 11kV)",
+   195.0,
+   96.16
+  ],
+  "res_vmin": [
+   1.004,
+   "D1041_BB"
+  ],
+  "lim_dev": "A20_R11-122 144.8 A of 260 A",
+  "loading_pct": 55.7,
+  "sweep": {
+   "substations_off_after_isolation": "D1001 D1002 D1026 D1042",
+   "load_restored_kW": "486",
+   "load_still_out_kW": "168",
+   "vmin_pu": "1.004",
+   "loading_pct_alarm": "55.7",
+   "compliant": "yes"
+  }
+ },
+ {
+  "id": "SCN-08",
+  "donor": "circuit 22 (own ring) via 1004-1-2",
+  "steps": 3,
+  "iso_areas": [
+   5,
+   3
+  ],
+  "iso_changed": {
+   "22": 95.3,
+   "16": 290.7
+  },
+  "iso_lmax": [
+   49.3,
+   "A020-1019A05 (3 x 70 Cu 11kV)",
+   195.0,
+   96.16
+  ],
+  "res_areas": [
+   4,
+   2
+  ],
+  "res_changed": {},
+  "res_lmax": [
+   49.3,
+   "A020-1019A05 (3 x 70 Cu 11kV)",
+   195.0,
+   96.16
+  ],
+  "res_vmin": [
+   1.004,
+   "D1041_BB"
+  ],
+  "lim_dev": "A20_R11-122 117.4 A of 260 A",
+  "loading_pct": 45.2,
+  "sweep": {
+   "substations_off_after_isolation": "D1004 D1036",
+   "load_restored_kW": "400",
+   "load_still_out_kW": "0",
+   "vmin_pu": "1.004",
+   "loading_pct_alarm": "45.2",
+   "compliant": "yes"
+  }
+ },
+ {
+  "id": "SCN-09",
+  "donor": "circuit 06 via 1012-1-1",
+  "steps": 1,
+  "iso_areas": [
+   5,
+   3
+  ],
+  "iso_changed": {
+   "16": 243.6,
+   "05": 0.0
+  },
+  "iso_lmax": [
+   49.3,
+   "A020-1019A05 (3 x 70 Cu 11kV)",
+   195.0,
+   96.16
+  ],
+  "res_areas": [
+   4,
+   2
+  ],
+  "res_changed": {
+   "06": 108.3,
+   "05": 0.0
+  },
+  "res_lmax": [
+   55.8,
+   "A020-1014A05 - 2",
+   195.0,
+   108.75
+  ],
+  "res_vmin": [
+   1.004,
+   "D1041_BB"
+  ],
+  "lim_dev": "A20_R11-106 108.3 A of 160 A",
+  "loading_pct": 67.7,
+  "sweep": {
+   "substations_off_after_isolation": "D1013 D1015 D1016 D1020 D1021 D1046 D1070",
+   "load_restored_kW": "1253",
+   "load_still_out_kW": "0",
+   "vmin_pu": "1.004",
+   "loading_pct_alarm": "67.8",
+   "compliant": "yes"
+  }
+ },
+ {
+  "id": "SCN-10",
+  "donor": "circuit 05 via D1022_B-11-01",
+  "steps": 2,
+  "iso_areas": [
+   5,
+   3
+  ],
+  "iso_changed": {
+   "16": 291.0,
+   "10": 13.8
+  },
+  "iso_lmax": [
+   49.3,
+   "A020-1019A05 (3 x 70 Cu 11kV)",
+   195.0,
+   96.16
+  ],
+  "res_areas": [
+   4,
+   2
+  ],
+  "res_changed": {
+   "10": 13.8,
+   "05": 91.1
+  },
+  "res_lmax": [
+   49.3,
+   "A020-1019A05 (3 x 70 Cu 11kV)",
+   195.0,
+   96.16
+  ],
+  "res_vmin": [
+   1.004,
+   "D1041_BB"
+  ],
+  "lim_dev": "A20_R11-105 91.1 A of 260 A",
+  "loading_pct": 35.1,
+  "sweep": {
+   "substations_off_after_isolation": "D1022 D1034 D1057",
+   "load_restored_kW": "377",
+   "load_still_out_kW": "0",
+   "vmin_pu": "1.004",
+   "loading_pct_alarm": "35.0",
+   "compliant": "yes"
+  }
+ },
+ {
+  "id": "SCN-11",
+  "donor": "none",
+  "steps": 2,
+  "iso_areas": [
+   5,
+   3
+  ],
+  "iso_changed": {
+   "16": 311.4,
+   "11": 2.5
+  },
+  "iso_lmax": [
+   49.3,
+   "A020-1019A05 (3 x 70 Cu 11kV)",
+   195.0,
+   96.16
+  ],
+  "res_vmin": [
+   1.004,
+   "D1041_BB"
+  ],
+  "sweep": {
+   "substations_off_after_isolation": "D1067",
+   "load_restored_kW": "-22",
+   "load_still_out_kW": "31",
+   "vmin_pu": "1.004",
+   "loading_pct_alarm": "",
+   "compliant": "yes"
+  }
+ },
+ {
+  "id": "SCN-12",
+  "donor": "circuit 05 via 1012-1-1",
+  "steps": 3,
+  "iso_areas": [
+   5,
+   3
+  ],
+  "iso_changed": {
+   "16": 277.5,
+   "06": 3.8
+  },
+  "iso_lmax": [
+   49.3,
+   "A020-1019A05 (3 x 70 Cu 11kV)",
+   195.0,
+   96.16
+  ],
+  "res_areas": [
+   4,
+   2
+  ],
+  "res_changed": {
+   "06": 3.8,
+   "05": 104.6
+  },
+  "res_lmax": [
+   49.3,
+   "A020-1019A05 (3 x 70 Cu 11kV)",
+   195.0,
+   96.16
+  ],
+  "res_vmin": [
+   1.004,
+   "D1041_BB"
+  ],
+  "lim_dev": "A20_R11-105 104.6 A of 260 A",
+  "loading_pct": 40.2,
+  "sweep": {
+   "substations_off_after_isolation": "D1008 D1009 D1011 D1012 D1017 D1052",
+   "load_restored_kW": "626",
+   "load_still_out_kW": "0",
+   "vmin_pu": "1.004",
+   "loading_pct_alarm": "40.3",
+   "compliant": "yes"
+  }
+ },
+ {
+  "id": "SCN-13",
+  "donor": "circuit 13 via 1058-1-2",
+  "steps": 3,
+  "iso_areas": [
+   7,
+   5
+  ],
+  "iso_changed": {
+   "08": 1.0,
+   "07": 95.6
+  },
+  "iso_lmax": [
+   49.3,
+   "A020-1019A05 (3 x 70 Cu 11kV)",
+   195.0,
+   96.16
+  ],
+  "res_areas": [
+   6,
+   4
+  ],
+  "res_changed": {
+   "13": 103.3,
+   "08": 1.0,
+   "07": 103.1
+  },
+  "res_lmax": [
+   53.2,
+   "A020-1019A05 (3 x 70 Cu 11kV)",
+   195.0,
+   103.64
+  ],
+  "res_vmin": [
+   1.002,
+   "D1062_BB"
+  ],
+  "lim_dev": "A20_R11-213 103.3 A of 160 A",
+  "loading_pct": 64.6,
+  "sweep": {
+   "substations_off_after_isolation": "D1049 D1061 D1062",
+   "load_restored_kW": "124",
+   "load_still_out_kW": "112",
+   "vmin_pu": "1.003",
+   "loading_pct_alarm": "64.6",
+   "compliant": "yes"
+  }
+ },
+ {
+  "id": "SCN-14",
+  "donor": "circuit 21 via 1003-1-6",
+  "steps": 2,
+  "iso_areas": [
+   5,
+   3
+  ],
+  "iso_changed": {
+   "22": 0.0,
+   "16": 195.5
+  },
+  "iso_lmax": [
+   49.3,
+   "A020-1019A05 (3 x 70 Cu 11kV)",
+   195.0,
+   96.16
+  ],
+  "res_areas": [
+   4,
+   2
+  ],
+  "res_changed": {
+   "22": 0.0,
+   "21": 154.6,
+   "16": 313.4
+  },
+  "res_lmax": [
+   64.3,
+   "1001-1002A05 - 2",
+   195.0,
+   125.43
+  ],
+  "res_vmin": [
+   1.004,
+   "D1058_BB"
+  ],
+  "lim_dev": "A20_R11-121 154.6 A of 200 A",
+  "loading_pct": 77.3,
+  "sweep": {
+   "substations_off_after_isolation": "D1003 D1004 D1005 D1018 D1028 D1036 D1040",
+   "load_restored_kW": "2128",
+   "load_still_out_kW": "0",
+   "vmin_pu": "1.004",
+   "loading_pct_alarm": "77.3",
+   "compliant": "yes"
+  }
+ },
+ {
+  "id": "SCN-15",
+  "donor": "circuit 22 via 1003-1-6",
+  "steps": 1,
+  "iso_areas": [
+   6,
+   4
+  ],
+  "iso_changed": {
+   "21": 8.9,
+   "16": 285.1
+  },
+  "iso_lmax": [
+   49.3,
+   "A020-1019A05 (3 x 70 Cu 11kV)",
+   195.0,
+   96.16
+  ],
+  "res_areas": [
+   5,
+   3
+  ],
+  "res_changed": {
+   "22": 130.2,
+   "21": 8.9,
+   "16": 298.0
+  },
+  "res_lmax": [
+   49.3,
+   "A020-1019A05 (3 x 70 Cu 11kV)",
+   195.0,
+   96.16
+  ],
+  "res_vmin": [
+   1.004,
+   "D1058_BB"
+  ],
+  "lim_dev": "A20_R11-122 130.2 A of 260 A",
+  "loading_pct": 50.1,
+  "sweep": {
+   "substations_off_after_isolation": "D1001 D1002 D1026",
+   "load_restored_kW": "218",
+   "load_still_out_kW": "268",
+   "vmin_pu": "1.004",
+   "loading_pct_alarm": "50.1",
+   "compliant": "yes"
+  }
+ }
+]

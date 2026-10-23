@@ -1,0 +1,60 @@
+info - Element '   Landsnet_66kV' is local reference in separated area of '   A20_66kV'
+warn -    2 area(s) are unsupplied.
+info - Grid split into 4 isolated areas
+info - Calculating load flow...
+info - -------------------------------------------------------------------------------------
+info - Start Newton-Raphson Algorithm...
+info - |------|-------------------------------------|-------------------------------------|-------------------------------------|----------------------------------------------|
+info - | Iter.| Max. bus equation error (MV)        | Max. bus equation error (LV)        | Max. model equation error           | Iteration step size                          |
+info - |------|-------------------------------------|-------------------------------------|-------------------------------------|----------------------------------------------|
+info - |    0 |    A20_BB1                 9.16e+00 |    D1005_LV02_0.4kV        4.01e-01 |    Landsnet_66kV           2.24e-16 |                                              |
+info - |    1 |    A20_BB1                 1.18e-10 |    D1005_LV02_0.4kV        3.29e-04 |    Load_D1005_S-11-02      2.99e-04 | Max. Step: 1,00e+00; Linesearch: 1,00e+00    |
+info - |    2 |    J_1027-1030A02          7.28e-11 |    D1005_LV02_0.4kV        2.33e-10 |    Load_D1005_S-11-02      2.33e-10 | Max. Step: 1,00e+00; Linesearch: 1,00e+00    |
+info - |------|-------------------------------------|-------------------------------------|-------------------------------------|----------------------------------------------|
+info - Newton-Raphson converged with 2 iterations.
+info - Load flow calculation successful.
+info - -------------------------------------------------------------------------------------
+            Report of Control Condition for Relevant Controllers
+       -------------------------------------------------------------------------------------
+info - Control conditions for all controllers of interest are fulfilled.
+warn - Scaling factor for load/generation circles must be adapted: See layer "   Load/generation distribution"
+info - Short-circuit calculation started...
+info - Short-circuit calculated at Terminal VeiturRegion\VeiturRegion\VeiturSubRegion\D1026 Þjóðbraut\1026-1\D1026_BB.ElmTerm
+info - Short-circuit calculation successfully executed.
+-----------------------------------------------------------------------------------------------------------------------------------
+|                 |                                                                |   DIgSILENT   | Project:                     |
+|                 |                                                                | PowerFactory  |-------------------------------
+|                 |                                                                |    2025 SP4   | Date:  22-Oct-26             |
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+| Fault Locations with Feeders                                                                                                    |
+| Short-Circuit Calculation / Method : complete                            Single Phase to Ground   / Max. Short-Circuit Currents |
+-----------------------------------------------------------------------------------------------------------------------------------
+| Short-Circuit Duration                 | Fault Impedance                         |                                              |
+|    Break Time                   0,10 s |     Resistance, Rf             0,00 Ohm |                                              |
+|    Fault Clearing Time (Ith)    1,00 s |     Reactance, Xf              0,00 Ohm |                                              |
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+| Grid: VeiturRegion         System Stage: VeiturRegion    |                                       | Annex:            / 1        |
+-----------------------------------------------------------------------------------------------------------------------------------
+|                  rtd.V.       Voltage      c-            Sk"              Ik"           Ik'       ip        Ib       ib     EFF |
+|                   [kV]     [kV]   [deg] Factor          [MVA]       [kA]     [deg]     [kA]      [kA]       [kA]     [kA]   [-] |
+-----------------------------------------------------------------------------------------------------------------------------------
+|1026-1                                                                                                                           |
+| D1026_BB    A    11,00     0,00    0,00              33,13 MVA     5,22 kA  -42,4      5,22     10,76 kA    5,22     7,38   0,00|
+|             B              6,54 -152,74               0,00 MVA     0,00 kA    0,0      0,00      0,00 kA    0,00     0,00   1,01|
+|             C              9,91  124,17               0,00 MVA     0,00 kA    0,0      0,00      0,00 kA    0,00     0,00   1,53|
+|                                                                                                                                 |
+|  026 -  - 6      1                            A      33,24 MVA     5,23 kA  137,6      5,23     10,80 kA                        |
+|                                               B       0,14 MVA     0,02 kA   50,9      0,02      0,05 kA                        |
+|                                               C       0,18 MVA     0,03 kA  -90,5      0,03      0,06 kA                        |
+|                                                                                                                                 |
+|  026 -  - 6      2                            A       0,05 MVA     0,01 kA  -42,3      0,01      0,02 kA                        |
+|                                               B       0,07 MVA     0,01 kA -124,9      0,01      0,02 kA                        |
+|                                               C       0,08 MVA     0,01 kA   94,4      0,01      0,03 kA                        |
+|                                                                                                                                 |
+|  D1026_S-11      D1026_LV01                   A       0,06 MVA     0,01 kA  -44,3      0,01      0,02 kA                        |
+|                                               B       0,08 MVA     0,01 kA -132,9      0,01      0,02 kA                        |
+|                                               C       0,10 MVA     0,02 kA   85,5      0,02      0,03 kA                        |
+|                                                                                                                                 |
+-----------------------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,11 @@
+busbar,target_Ic_A,C_add_uF_per_phase,Q_Mvar_3ph_at_11kV,achieved_Ic_A,note
+A20_BB1,20,,,60.2,natural section current already above target
+A20_BB1,40,,,60.2,natural section current already above target
+A20_BB1,80,3.2268,0.12266,80.0,"ElmShnt YN, C type, isolated variant"
+A20_BB1,120,9.7211,0.36953,120.0,"ElmShnt YN, C type, isolated variant"
+A20_BB1,200,22.5925,0.85881,200.0,"ElmShnt YN, C type, isolated variant"
+A20_BB2,20,,,21.4,natural section current already above target
+A20_BB2,40,3.0445,0.11573,40.0,"ElmShnt YN, C type, isolated variant"
+A20_BB2,80,9.5712,0.36383,80.0,"ElmShnt YN, C type, isolated variant"
+A20_BB2,120,16.0541,0.61027,120.0,"ElmShnt YN, C type, isolated variant"
+A20_BB2,200,28.8893,1.09818,200.0,"ElmShnt YN, C type, isolated variant"

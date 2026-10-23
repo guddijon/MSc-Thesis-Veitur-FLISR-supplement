@@ -1,0 +1,9 @@
+anchor,case_id,purpose
+A1,base|iso|main|split|SCN15|0,"isolated reference: solid fault at the D1026 busbar, busbar 1 section"
+A2,base|iso|main|split|SCN15|300,same with R_F = 300 ohm: displacement voltage and current reduction
+A3,base|iso|main|split|SCN04|0,circuit 13 midline (busbar 2): chain of four remotely controlled stations
+A4,base|iso|main|coupled|SCN15|0,coupled busbar N-1: whole network connected
+A5,base|iso|main|post15|F21H|0,"post-restoration configuration SCN-15 (D1001, D1002 fed from circuit 22)"
+A6,ic_sweep|iso|main|split|SCN04|0|C1202,added shunt on busbar 2 sized for 120 A: checks the shunt element
+A7,base|ear|main|split|SCN15|0,"earthed variant, solid fault"
+A8,base|ear|main|split|SCN15|30,"earthed variant, R_F = 30 ohm"

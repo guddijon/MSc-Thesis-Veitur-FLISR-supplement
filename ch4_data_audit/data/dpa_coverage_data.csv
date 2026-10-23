@@ -1,0 +1,16 @@
+label,group,populated,total
+Measurement status (15),telemetry,12447,12447
+Infinite source (0),telemetry,17,17
+"Feeder name, breakers (3)",telemetry,521,521
+Busbar nominal voltage (1),telemetry,3821,3843
+Tap-changing transformer code (6),catalog,19,25
+Cable code (4),catalog,6113,8152
+Cable length (4),catalog,6060,8152
+Circuit breaker switch code (3),catalog,243,2099
+Distribution transformer code (5),catalog,96,1284
+Switch code (2),catalog,49,3145
+Tap-changing transformer rating (6),electrical,2,21
+"Switch and breaker rating (2, 3)",electrical,0,5243
+Breaker protection stage (3),electrical,0,2099
+"Winding type, earthing, tap, $Z_0$ (6)",electrical,0,21
+"Load magnitude and profile (5, 13)",electrical,0,1306

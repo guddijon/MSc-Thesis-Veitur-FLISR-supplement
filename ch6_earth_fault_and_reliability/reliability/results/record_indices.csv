@@ -1,0 +1,14 @@
+quantity,value
+events,6
+register_customers,3516
+years,6.83
+customers_interrupted,4224
+customer_minutes,706763
+saifi_per_year,0.1759
+saidi_min_per_year,29.43
+customer_minutes_per_customer,201.0
+largest_event_date,2022-12-26
+largest_event_customers,1413
+largest_event_customer_minutes_per_customer,138.1
+largest_event_saidi_min_per_year,20.22
+saidi_without_largest_min_per_year,9.21

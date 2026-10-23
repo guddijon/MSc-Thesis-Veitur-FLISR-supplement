@@ -1,0 +1,28 @@
+info - Operation Scenario    SCN-12_restored was saved.
+info - Operation Scenario    winter_peak_boiler_off activated.
+info - Operation Scenario    winter_peak_boiler_off deactivated.
+info - Operation Scenario    SCN-13_isolated activated.
+info - Operation Scenario    SCN-13_isolated was saved.
+warn - VeiturRegion\VeiturRegion\VeiturSubRegion\D1049\D1049\D1049_S-11-01.ElmTr2:
+       Connected terminal '   D1049_BB' is not relevant for calculation.
+warn - VeiturRegion\VeiturRegion\VeiturSubRegion\D1049\D1049\D1049_S-11-02.ElmTr2:
+       Connected terminal '   D1049_BB' is not relevant for calculation.
+info - Element '   Landsnet_66kV' is local reference in separated area of '   A20_66kV'
+warn -    5 area(s) are unsupplied.
+info - Grid split into 7 isolated areas
+info - Calculating load flow...
+info - -------------------------------------------------------------------------------------
+info - Start Newton-Raphson Algorithm...
+info - |------|-------------------------------------|-------------------------------------|-------------------------------------|----------------------------------------------|
+info - | Iter.| Max. bus equation error (MV)        | Max. bus equation error (LV)        | Max. model equation error           | Iteration step size                          |
+info - |------|-------------------------------------|-------------------------------------|-------------------------------------|----------------------------------------------|
+info - |    0 |    A20_BB1                 9.16e+00 |    D1005_LV02_0.4kV        4.01e-01 |    Landsnet_66kV           2.24e-16 |                                              |
+info - |    1 |    A20_BB1                 2.52e-10 |    D1005_LV02_0.4kV        3.29e-04 |    Load_D1005_S-11-02      2.99e-04 | Max. Step: 1,00e+00; Linesearch: 1,00e+00    |
+info - |    2 |    A20_BB1                 2.00e-10 |    D1005_LV02_0.4kV        2.33e-10 |    Load_D1005_S-11-02      2.33e-10 | Max. Step: 1,00e+00; Linesearch: 1,00e+00    |
+info - |------|-------------------------------------|-------------------------------------|-------------------------------------|----------------------------------------------|
+info - Newton-Raphson converged with 2 iterations.
+info - Load flow calculation successful.
+info - -------------------------------------------------------------------------------------
+            Report of Control Condition for Relevant Controllers
+       -------------------------------------------------------------------------------------
+info - Control conditions for all controllers of interest are fulfilled.

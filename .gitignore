@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+output/
+# recreated by run_offline.py (stored compressed as .csv.gz)
+ch6_earth_fault_and_reliability/earth_fault/results/offline_phasors.csv

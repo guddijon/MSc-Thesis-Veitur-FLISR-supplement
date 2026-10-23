@@ -1,0 +1,14 @@
+-- Transformer codes and winding types of substation A0020 (thesis Appendix B, Figure B.1).
+-- GE PowerOn ADMS, ENMAC schema as documented by the vendor: COMPONENT_HEADER, COMPONENT_CLASS_DEFN,
+-- COMPONENT_ATTRIBUTES. EMS classes 5, 6, 7 are the transformer classes; DPA properties are addressed by name.
+
+SELECT
+    ch.COMPONENT_ALIAS AS Transformer_Alias,
+    MAX(CASE WHEN pa.ATTRIBUTE_NAME = 'DPA Transformer Code' THEN pa.ATTRIBUTE_VALUE END) AS Tx_Code,
+    MAX(CASE WHEN pa.ATTRIBUTE_NAME = 'DPA Winding Type' THEN pa.ATTRIBUTE_VALUE END) AS Winding_Type
+FROM ENMAC.COMPONENT_HEADER ch
+JOIN ENMAC.COMPONENT_CLASS_DEFN ccd ON ch.COMPONENT_CLASS = ccd.COMPONENT_CLASS_INDEX
+LEFT JOIN ENMAC.COMPONENT_ATTRIBUTES pa ON ch.COMPONENT_ID = pa.COMPONENT_ID
+WHERE ccd.COMPONENT_EMS_CLASS_INDEX IN (5, 6, 7)
+    AND UPPER(ch.COMPONENT_ALIAS) LIKE '%A0020%'
+GROUP BY ch.COMPONENT_ALIAS;

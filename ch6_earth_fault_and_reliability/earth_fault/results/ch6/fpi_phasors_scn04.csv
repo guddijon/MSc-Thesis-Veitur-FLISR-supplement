@@ -1,0 +1,15 @@
+bay,role,faces,I0x3_A,phi_deg,Iq_A
+A20_F08,head,feeder head,6.390,-90.03,-6.390
+A20_F13,head,feeder head,6.390,89.97,6.390
+D1025_101,offB,toward A20,7.287,89.97,7.287
+D1025_102,offA,away from A20,7.287,-90.03,-7.287
+D1029_101,pathB,away from A20,10.294,89.92,10.294
+D1029_102,pathA,toward A20,10.294,-90.08,-10.294
+D1030_101,offA,away from A20,5.425,-90.02,-5.425
+D1030_102,offB,toward A20,5.425,89.98,5.425
+D1061_101,offA,away from A20,3.021,-90.01,-3.021
+D1061_102,offB,toward A20,3.021,89.99,3.021
+D1062_101,offA,away from A20,2.124,-90.00,-2.124
+D1062_102,offB,toward A20,2.124,90.00,2.124
+D1066_101,pathA,toward A20,10.965,-90.09,-10.965
+D1066_102,pathB,away from A20,10.965,89.91,10.965

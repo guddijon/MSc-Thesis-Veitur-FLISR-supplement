@@ -1,0 +1,5 @@
+snapshot,bays_telemetered,both,neither,meas_only,sim_only,a20_points,a20_mae_pct,a20_rmse_pct,a20_mad_pct,sub_points,sub_mae_pct,sub_rmse_pct,sub_mad_pct,sub_mean_offset_pct,sub_mae_offsetfree_pct,sub_mad_offsetfree_pct,cur_bays,cur_mae_A,cur_rmse_A,cur_mad_A,cur_within_tol,cur_all_bays,cur_all_mae_A,cur_all_rmse_A,cur_all_mad_A,cur_all_within_tol,unb_median,unb_max,unb_n
+winter_peak_boiler_off,34,22,4,2,6,2,0.37,0.37,0.38,10,1.76,1.8,2.33,1.76,0.34,0.66,22,4.77,6.57,14.59,3,33,3.96,5.67,14.59,6,1.13,1.33,24
+winter_night_min,34,22,4,2,6,2,0.3,0.33,0.45,10,2.07,2.1,2.71,2.07,0.3,0.64,22,1.4,1.96,4.98,8,33,1.43,1.96,4.98,11,1.12,1.29,24
+summer_peak,34,25,5,2,2,2,0.18,0.19,0.25,10,1.55,1.6,2.2,1.55,0.38,0.65,25,2.94,4.41,10.7,5,31,2.74,4.16,10.7,7,1.09,1.27,25
+summer_night_min,34,25,5,2,2,2,0.26,0.26,0.28,10,1.77,1.81,2.33,1.77,0.29,0.56,25,2.45,3.75,12.81,6,31,2.13,3.39,12.81,8,1.09,1.35,25

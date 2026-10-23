@@ -1,0 +1,561 @@
+system,error_model,phase_sensor,theta_deg,unbalance,load_level,smallest_path_current_A,I_EQ_meeting_99pct_std_cal_VNEQ20,largest_offpath_forward_current_A,strict_window_A
+bb2,3CT,bushing 0.5 %,0.5,none,summer_min,10.29,5,11.15,none
+bb2,3CT,bushing 0.5 %,0.5,none,winter_peak,10.29,5,11.15,none
+bb2,3CT,bushing 0.5 %,1,none,summer_min,10.29,5,11.15,none
+bb2,3CT,bushing 0.5 %,1,none,winter_peak,10.29,5,11.15,none
+bb2,3CT,bushing 0.5 %,2,none,summer_min,10.29,5,11.15,none
+bb2,3CT,bushing 0.5 %,2,none,winter_peak,10.29,5,11.15,none
+bb2,3CT,split-core 1 %,0,none,summer_min,10.29,5,11.15,none
+bb2,3CT,split-core 1 %,0,none,winter_peak,10.29,5,11.15,none
+bb2,3CT,split-core 1 %,0.5,max,summer_min,10.29,5,11.15,none
+bb2,3CT,split-core 1 %,0.5,max,winter_peak,10.29,5,11.15,none
+bb2,3CT,split-core 1 %,0.5,median,summer_min,10.29,5,11.15,none
+bb2,3CT,split-core 1 %,0.5,median,winter_peak,10.29,5,11.15,none
+bb2,3CT,split-core 1 %,0.5,none,summer_min,10.29,5,11.15,none
+bb2,3CT,split-core 1 %,0.5,none,winter_peak,10.29,5,11.15,none
+bb2,3CT,split-core 1 %,1,max,summer_min,10.29,5,11.15,none
+bb2,3CT,split-core 1 %,1,max,winter_peak,10.29,5,11.15,none
+bb2,3CT,split-core 1 %,1,median,summer_min,10.29,5,11.15,none
+bb2,3CT,split-core 1 %,1,median,winter_peak,10.29,5,11.15,none
+bb2,3CT,split-core 1 %,1,none,summer_min,10.29,5,11.15,none
+bb2,3CT,split-core 1 %,1,none,winter_peak,10.29,5,11.15,none
+bb2,3CT,split-core 1 %,2,max,summer_min,10.29,5,11.15,none
+bb2,3CT,split-core 1 %,2,max,winter_peak,10.29,5,11.15,none
+bb2,3CT,split-core 1 %,2,median,summer_min,10.29,5,11.15,none
+bb2,3CT,split-core 1 %,2,median,winter_peak,10.29,5,11.15,none
+bb2,3CT,split-core 1 %,2,none,summer_min,10.29,5,11.15,none
+bb2,3CT,split-core 1 %,2,none,winter_peak,10.29,5,11.15,none
+bb2,SumCT,summation 3 %,,,,10.29,5,11.15,none
+bb2_40,3CT,bushing 0.5 %,0.5,none,150,28.88,5 10 15 20,11.17,15 to 20
+bb2_40,3CT,bushing 0.5 %,0.5,none,300,28.88,5 10 15 20,11.17,20 to 20
+bb2_40,3CT,bushing 0.5 %,0.5,none,450,28.88,10 15 20,11.17,20 to 20
+bb2_40,3CT,bushing 0.5 %,0.5,none,50,28.88,5 10 15 20,11.17,15 to 20
+bb2_40,3CT,bushing 0.5 %,1,none,150,28.88,5 10 15 20,11.17,20 to 20
+bb2_40,3CT,bushing 0.5 %,1,none,300,28.88,10 15,11.17,none
+bb2_40,3CT,bushing 0.5 %,1,none,450,28.88,15,11.17,none
+bb2_40,3CT,bushing 0.5 %,1,none,50,28.88,5 10 15 20,11.17,15 to 20
+bb2_40,3CT,bushing 0.5 %,2,none,150,28.88,10 15 20,11.17,20 to 20
+bb2_40,3CT,bushing 0.5 %,2,none,300,28.88,,11.17,none
+bb2_40,3CT,bushing 0.5 %,2,none,450,28.88,,11.17,none
+bb2_40,3CT,bushing 0.5 %,2,none,50,28.88,5 10 15 20,11.17,15 to 20
+bb2_40,3CT,split-core 1 %,0,none,150,28.88,5 10 15 20,11.17,15 to 20
+bb2_40,3CT,split-core 1 %,0,none,300,28.88,5 10 15 20,11.17,20 to 20
+bb2_40,3CT,split-core 1 %,0,none,450,28.88,10 15 20,11.17,20 to 20
+bb2_40,3CT,split-core 1 %,0,none,50,28.88,5 10 15 20,11.17,15 to 20
+bb2_40,3CT,split-core 1 %,0.5,max,150,28.88,5 10 15 20,11.17,15 to 20
+bb2_40,3CT,split-core 1 %,0.5,max,300,28.88,10 15 20,11.17,20 to 20
+bb2_40,3CT,split-core 1 %,0.5,max,450,28.88,10 15,11.17,none
+bb2_40,3CT,split-core 1 %,0.5,max,50,28.88,5 10 15 20,11.17,15 to 20
+bb2_40,3CT,split-core 1 %,0.5,median,150,28.88,5 10 15 20,11.17,15 to 20
+bb2_40,3CT,split-core 1 %,0.5,median,300,28.88,10 15 20,11.17,20 to 20
+bb2_40,3CT,split-core 1 %,0.5,median,450,28.88,10 15,11.17,none
+bb2_40,3CT,split-core 1 %,0.5,median,50,28.88,5 10 15 20,11.17,15 to 20
+bb2_40,3CT,split-core 1 %,0.5,none,150,28.88,5 10 15 20,11.17,15 to 20
+bb2_40,3CT,split-core 1 %,0.5,none,300,28.88,10 15 20,11.17,20 to 20
+bb2_40,3CT,split-core 1 %,0.5,none,450,28.88,10 15,11.17,none
+bb2_40,3CT,split-core 1 %,0.5,none,50,28.88,5 10 15 20,11.17,15 to 20
+bb2_40,3CT,split-core 1 %,1,max,150,28.88,5 10 15 20,11.17,20 to 20
+bb2_40,3CT,split-core 1 %,1,max,300,28.88,10 15,11.17,none
+bb2_40,3CT,split-core 1 %,1,max,450,28.88,,11.17,none
+bb2_40,3CT,split-core 1 %,1,max,50,28.88,5 10 15 20,11.17,15 to 20
+bb2_40,3CT,split-core 1 %,1,median,150,28.88,5 10 15 20,11.17,20 to 20
+bb2_40,3CT,split-core 1 %,1,median,300,28.88,10 15,11.17,none
+bb2_40,3CT,split-core 1 %,1,median,450,28.88,,11.17,none
+bb2_40,3CT,split-core 1 %,1,median,50,28.88,5 10 15 20,11.17,15 to 20
+bb2_40,3CT,split-core 1 %,1,none,150,28.88,5 10 15 20,11.17,20 to 20
+bb2_40,3CT,split-core 1 %,1,none,300,28.88,10 15,11.17,none
+bb2_40,3CT,split-core 1 %,1,none,450,28.88,,11.17,none
+bb2_40,3CT,split-core 1 %,1,none,50,28.88,5 10 15 20,11.17,15 to 20
+bb2_40,3CT,split-core 1 %,2,max,150,28.88,10 15,11.17,none
+bb2_40,3CT,split-core 1 %,2,max,300,28.88,,11.17,none
+bb2_40,3CT,split-core 1 %,2,max,450,28.88,,11.17,none
+bb2_40,3CT,split-core 1 %,2,max,50,28.88,5 10 15 20,11.17,15 to 20
+bb2_40,3CT,split-core 1 %,2,median,150,28.88,10 15,11.17,none
+bb2_40,3CT,split-core 1 %,2,median,300,28.88,,11.17,none
+bb2_40,3CT,split-core 1 %,2,median,450,28.88,,11.17,none
+bb2_40,3CT,split-core 1 %,2,median,50,28.88,5 10 15 20,11.17,15 to 20
+bb2_40,3CT,split-core 1 %,2,none,150,28.88,10 15 20,11.17,20 to 20
+bb2_40,3CT,split-core 1 %,2,none,300,28.88,,11.17,none
+bb2_40,3CT,split-core 1 %,2,none,450,28.88,,11.17,none
+bb2_40,3CT,split-core 1 %,2,none,50,28.88,5 10 15 20,11.17,15 to 20
+bb2_40,SumCT,summation 3 %,,,,28.88,5 10 15 20,11.17,15 to 20
+bb2_80,3CT,bushing 0.5 %,0.5,none,150,69.00,5 10 15 20 30,11.22,15 to 30
+bb2_80,3CT,bushing 0.5 %,0.5,none,300,69.00,5 10 15 20 30,11.22,20 to 30
+bb2_80,3CT,bushing 0.5 %,0.5,none,450,69.00,10 15 20 30,11.22,20 to 30
+bb2_80,3CT,bushing 0.5 %,0.5,none,50,69.00,5 10 15 20 30,11.22,15 to 30
+bb2_80,3CT,bushing 0.5 %,1,none,150,69.00,5 10 15 20 30,11.22,20 to 30
+bb2_80,3CT,bushing 0.5 %,1,none,300,69.00,10 15 20 30,11.22,20 to 30
+bb2_80,3CT,bushing 0.5 %,1,none,450,69.00,15 20 30,11.22,30 to 30
+bb2_80,3CT,bushing 0.5 %,1,none,50,69.00,5 10 15 20 30,11.22,15 to 30
+bb2_80,3CT,bushing 0.5 %,2,none,150,69.00,10 15 20 30,11.22,20 to 30
+bb2_80,3CT,bushing 0.5 %,2,none,300,69.00,20 30,11.22,30 to 30
+bb2_80,3CT,bushing 0.5 %,2,none,450,69.00,30,11.22,none
+bb2_80,3CT,bushing 0.5 %,2,none,50,69.00,5 10 15 20 30,11.22,15 to 30
+bb2_80,3CT,split-core 1 %,0,none,150,69.00,5 10 15 20 30,11.22,15 to 30
+bb2_80,3CT,split-core 1 %,0,none,300,69.00,5 10 15 20 30,11.22,20 to 30
+bb2_80,3CT,split-core 1 %,0,none,450,69.00,10 15 20 30,11.22,20 to 30
+bb2_80,3CT,split-core 1 %,0,none,50,69.00,5 10 15 20 30,11.22,15 to 30
+bb2_80,3CT,split-core 1 %,0.5,max,150,69.00,5 10 15 20 30,11.22,15 to 30
+bb2_80,3CT,split-core 1 %,0.5,max,300,69.00,10 15 20 30,11.22,20 to 30
+bb2_80,3CT,split-core 1 %,0.5,max,450,69.00,10 15 20 30,11.22,30 to 30
+bb2_80,3CT,split-core 1 %,0.5,max,50,69.00,5 10 15 20 30,11.22,15 to 30
+bb2_80,3CT,split-core 1 %,0.5,median,150,69.00,5 10 15 20 30,11.22,15 to 30
+bb2_80,3CT,split-core 1 %,0.5,median,300,69.00,10 15 20 30,11.22,20 to 30
+bb2_80,3CT,split-core 1 %,0.5,median,450,69.00,10 15 20 30,11.22,30 to 30
+bb2_80,3CT,split-core 1 %,0.5,median,50,69.00,5 10 15 20 30,11.22,15 to 30
+bb2_80,3CT,split-core 1 %,0.5,none,150,69.00,5 10 15 20 30,11.22,15 to 30
+bb2_80,3CT,split-core 1 %,0.5,none,300,69.00,10 15 20 30,11.22,20 to 30
+bb2_80,3CT,split-core 1 %,0.5,none,450,69.00,10 15 20 30,11.22,30 to 30
+bb2_80,3CT,split-core 1 %,0.5,none,50,69.00,5 10 15 20 30,11.22,15 to 30
+bb2_80,3CT,split-core 1 %,1,max,150,69.00,5 10 15 20 30,11.22,20 to 30
+bb2_80,3CT,split-core 1 %,1,max,300,69.00,10 15 20 30,11.22,30 to 30
+bb2_80,3CT,split-core 1 %,1,max,450,69.00,15 20 30,11.22,30 to 30
+bb2_80,3CT,split-core 1 %,1,max,50,69.00,5 10 15 20 30,11.22,15 to 30
+bb2_80,3CT,split-core 1 %,1,median,150,69.00,5 10 15 20 30,11.22,20 to 30
+bb2_80,3CT,split-core 1 %,1,median,300,69.00,10 15 20 30,11.22,30 to 30
+bb2_80,3CT,split-core 1 %,1,median,450,69.00,15 20 30,11.22,30 to 30
+bb2_80,3CT,split-core 1 %,1,median,50,69.00,5 10 15 20 30,11.22,15 to 30
+bb2_80,3CT,split-core 1 %,1,none,150,69.00,5 10 15 20 30,11.22,20 to 30
+bb2_80,3CT,split-core 1 %,1,none,300,69.00,10 15 20 30,11.22,30 to 30
+bb2_80,3CT,split-core 1 %,1,none,450,69.00,15 20 30,11.22,30 to 30
+bb2_80,3CT,split-core 1 %,1,none,50,69.00,5 10 15 20 30,11.22,15 to 30
+bb2_80,3CT,split-core 1 %,2,max,150,69.00,10 15 20 30,11.22,20 to 30
+bb2_80,3CT,split-core 1 %,2,max,300,69.00,20 30,11.22,30 to 30
+bb2_80,3CT,split-core 1 %,2,max,450,69.00,30,11.22,none
+bb2_80,3CT,split-core 1 %,2,max,50,69.00,5 10 15 20 30,11.22,15 to 30
+bb2_80,3CT,split-core 1 %,2,median,150,69.00,10 15 20 30,11.22,20 to 30
+bb2_80,3CT,split-core 1 %,2,median,300,69.00,20 30,11.22,30 to 30
+bb2_80,3CT,split-core 1 %,2,median,450,69.00,30,11.22,none
+bb2_80,3CT,split-core 1 %,2,median,50,69.00,5 10 15 20 30,11.22,15 to 30
+bb2_80,3CT,split-core 1 %,2,none,150,69.00,10 15 20 30,11.22,20 to 30
+bb2_80,3CT,split-core 1 %,2,none,300,69.00,20 30,11.22,30 to 30
+bb2_80,3CT,split-core 1 %,2,none,450,69.00,30,11.22,none
+bb2_80,3CT,split-core 1 %,2,none,50,69.00,5 10 15 20 30,11.22,15 to 30
+bb2_80,SumCT,summation 3 %,,,,69.00,5 10 15 20 30,11.22,15 to 30
+bb2_120,3CT,bushing 0.5 %,0.5,none,150,109.23,5 10 15 20 30,11.27,15 to 30
+bb2_120,3CT,bushing 0.5 %,0.5,none,300,109.23,5 10 15 20 30,11.27,20 to 30
+bb2_120,3CT,bushing 0.5 %,0.5,none,450,109.23,10 15 20 30,11.27,20 to 30
+bb2_120,3CT,bushing 0.5 %,0.5,none,50,109.23,5 10 15 20 30,11.27,15 to 30
+bb2_120,3CT,bushing 0.5 %,1,none,150,109.23,5 10 15 20 30,11.27,20 to 30
+bb2_120,3CT,bushing 0.5 %,1,none,300,109.23,10 15 20 30,11.27,20 to 30
+bb2_120,3CT,bushing 0.5 %,1,none,450,109.23,15 20 30,11.27,30 to 30
+bb2_120,3CT,bushing 0.5 %,1,none,50,109.23,5 10 15 20 30,11.27,15 to 30
+bb2_120,3CT,bushing 0.5 %,2,none,150,109.23,10 15 20 30,11.27,20 to 30
+bb2_120,3CT,bushing 0.5 %,2,none,300,109.23,20 30,11.27,30 to 30
+bb2_120,3CT,bushing 0.5 %,2,none,450,109.23,30,11.27,none
+bb2_120,3CT,bushing 0.5 %,2,none,50,109.23,5 10 15 20 30,11.27,15 to 30
+bb2_120,3CT,split-core 1 %,0,none,150,109.23,5 10 15 20 30,11.27,15 to 30
+bb2_120,3CT,split-core 1 %,0,none,300,109.23,5 10 15 20 30,11.27,20 to 30
+bb2_120,3CT,split-core 1 %,0,none,450,109.23,10 15 20 30,11.27,20 to 30
+bb2_120,3CT,split-core 1 %,0,none,50,109.23,5 10 15 20 30,11.27,15 to 30
+bb2_120,3CT,split-core 1 %,0.5,max,150,109.23,5 10 15 20 30,11.27,15 to 30
+bb2_120,3CT,split-core 1 %,0.5,max,300,109.23,10 15 20 30,11.27,20 to 30
+bb2_120,3CT,split-core 1 %,0.5,max,450,109.23,10 15 20 30,11.27,30 to 30
+bb2_120,3CT,split-core 1 %,0.5,max,50,109.23,5 10 15 20 30,11.27,15 to 30
+bb2_120,3CT,split-core 1 %,0.5,median,150,109.23,5 10 15 20 30,11.27,15 to 30
+bb2_120,3CT,split-core 1 %,0.5,median,300,109.23,10 15 20 30,11.27,20 to 30
+bb2_120,3CT,split-core 1 %,0.5,median,450,109.23,10 15 20 30,11.27,30 to 30
+bb2_120,3CT,split-core 1 %,0.5,median,50,109.23,5 10 15 20 30,11.27,15 to 30
+bb2_120,3CT,split-core 1 %,0.5,none,150,109.23,5 10 15 20 30,11.27,15 to 30
+bb2_120,3CT,split-core 1 %,0.5,none,300,109.23,10 15 20 30,11.27,20 to 30
+bb2_120,3CT,split-core 1 %,0.5,none,450,109.23,10 15 20 30,11.27,30 to 30
+bb2_120,3CT,split-core 1 %,0.5,none,50,109.23,5 10 15 20 30,11.27,15 to 30
+bb2_120,3CT,split-core 1 %,1,max,150,109.23,5 10 15 20 30,11.27,20 to 30
+bb2_120,3CT,split-core 1 %,1,max,300,109.23,10 15 20 30,11.27,30 to 30
+bb2_120,3CT,split-core 1 %,1,max,450,109.23,15 20 30,11.27,30 to 30
+bb2_120,3CT,split-core 1 %,1,max,50,109.23,5 10 15 20 30,11.27,15 to 30
+bb2_120,3CT,split-core 1 %,1,median,150,109.23,5 10 15 20 30,11.27,20 to 30
+bb2_120,3CT,split-core 1 %,1,median,300,109.23,10 15 20 30,11.27,30 to 30
+bb2_120,3CT,split-core 1 %,1,median,450,109.23,15 20 30,11.27,30 to 30
+bb2_120,3CT,split-core 1 %,1,median,50,109.23,5 10 15 20 30,11.27,15 to 30
+bb2_120,3CT,split-core 1 %,1,none,150,109.23,5 10 15 20 30,11.27,20 to 30
+bb2_120,3CT,split-core 1 %,1,none,300,109.23,10 15 20 30,11.27,30 to 30
+bb2_120,3CT,split-core 1 %,1,none,450,109.23,15 20 30,11.27,30 to 30
+bb2_120,3CT,split-core 1 %,1,none,50,109.23,5 10 15 20 30,11.27,15 to 30
+bb2_120,3CT,split-core 1 %,2,max,150,109.23,10 15 20 30,11.27,20 to 30
+bb2_120,3CT,split-core 1 %,2,max,300,109.23,20 30,11.27,30 to 30
+bb2_120,3CT,split-core 1 %,2,max,450,109.23,30,11.27,none
+bb2_120,3CT,split-core 1 %,2,max,50,109.23,5 10 15 20 30,11.27,15 to 30
+bb2_120,3CT,split-core 1 %,2,median,150,109.23,10 15 20 30,11.27,30 to 30
+bb2_120,3CT,split-core 1 %,2,median,300,109.23,20 30,11.27,30 to 30
+bb2_120,3CT,split-core 1 %,2,median,450,109.23,30,11.27,none
+bb2_120,3CT,split-core 1 %,2,median,50,109.23,5 10 15 20 30,11.27,15 to 30
+bb2_120,3CT,split-core 1 %,2,none,150,109.23,10 15 20 30,11.27,20 to 30
+bb2_120,3CT,split-core 1 %,2,none,300,109.23,20 30,11.27,30 to 30
+bb2_120,3CT,split-core 1 %,2,none,450,109.23,30,11.27,none
+bb2_120,3CT,split-core 1 %,2,none,50,109.23,5 10 15 20 30,11.27,15 to 30
+bb2_120,SumCT,summation 3 %,,,,109.23,5 10 15 20 30,11.27,15 to 30
+bb2_200,3CT,bushing 0.5 %,0.5,none,150,189.91,5 10 15 20 30,11.36,15 to 30
+bb2_200,3CT,bushing 0.5 %,0.5,none,300,189.91,5 10 15 20 30,11.36,20 to 30
+bb2_200,3CT,bushing 0.5 %,0.5,none,450,189.91,10 15 20 30,11.36,20 to 30
+bb2_200,3CT,bushing 0.5 %,0.5,none,50,189.91,5 10 15 20 30,11.36,15 to 30
+bb2_200,3CT,bushing 0.5 %,1,none,150,189.91,5 10 15 20 30,11.36,20 to 30
+bb2_200,3CT,bushing 0.5 %,1,none,300,189.91,10 15 20 30,11.36,20 to 30
+bb2_200,3CT,bushing 0.5 %,1,none,450,189.91,15 20 30,11.36,30 to 30
+bb2_200,3CT,bushing 0.5 %,1,none,50,189.91,5 10 15 20 30,11.36,15 to 30
+bb2_200,3CT,bushing 0.5 %,2,none,150,189.91,10 15 20 30,11.36,20 to 30
+bb2_200,3CT,bushing 0.5 %,2,none,300,189.91,20 30,11.36,30 to 30
+bb2_200,3CT,bushing 0.5 %,2,none,450,189.91,30,11.36,none
+bb2_200,3CT,bushing 0.5 %,2,none,50,189.91,5 10 15 20 30,11.36,15 to 30
+bb2_200,3CT,split-core 1 %,0,none,150,189.91,5 10 15 20 30,11.36,15 to 30
+bb2_200,3CT,split-core 1 %,0,none,300,189.91,5 10 15 20 30,11.36,20 to 30
+bb2_200,3CT,split-core 1 %,0,none,450,189.91,10 15 20 30,11.36,20 to 30
+bb2_200,3CT,split-core 1 %,0,none,50,189.91,5 10 15 20 30,11.36,15 to 30
+bb2_200,3CT,split-core 1 %,0.5,max,150,189.91,5 10 15 20 30,11.36,15 to 30
+bb2_200,3CT,split-core 1 %,0.5,max,300,189.91,10 15 20 30,11.36,20 to 30
+bb2_200,3CT,split-core 1 %,0.5,max,450,189.91,10 15 20 30,11.36,30 to 30
+bb2_200,3CT,split-core 1 %,0.5,max,50,189.91,5 10 15 20 30,11.36,15 to 30
+bb2_200,3CT,split-core 1 %,0.5,median,150,189.91,5 10 15 20 30,11.36,15 to 30
+bb2_200,3CT,split-core 1 %,0.5,median,300,189.91,10 15 20 30,11.36,20 to 30
+bb2_200,3CT,split-core 1 %,0.5,median,450,189.91,15 20 30,11.36,30 to 30
+bb2_200,3CT,split-core 1 %,0.5,median,50,189.91,5 10 15 20 30,11.36,15 to 30
+bb2_200,3CT,split-core 1 %,0.5,none,150,189.91,5 10 15 20 30,11.36,15 to 30
+bb2_200,3CT,split-core 1 %,0.5,none,300,189.91,10 15 20 30,11.36,20 to 30
+bb2_200,3CT,split-core 1 %,0.5,none,450,189.91,10 15 20 30,11.36,30 to 30
+bb2_200,3CT,split-core 1 %,0.5,none,50,189.91,5 10 15 20 30,11.36,15 to 30
+bb2_200,3CT,split-core 1 %,1,max,150,189.91,5 10 15 20 30,11.36,20 to 30
+bb2_200,3CT,split-core 1 %,1,max,300,189.91,10 15 20 30,11.36,30 to 30
+bb2_200,3CT,split-core 1 %,1,max,450,189.91,15 20 30,11.36,30 to 30
+bb2_200,3CT,split-core 1 %,1,max,50,189.91,5 10 15 20 30,11.36,15 to 30
+bb2_200,3CT,split-core 1 %,1,median,150,189.91,5 10 15 20 30,11.36,20 to 30
+bb2_200,3CT,split-core 1 %,1,median,300,189.91,10 15 20 30,11.36,30 to 30
+bb2_200,3CT,split-core 1 %,1,median,450,189.91,15 20 30,11.36,30 to 30
+bb2_200,3CT,split-core 1 %,1,median,50,189.91,5 10 15 20 30,11.36,15 to 30
+bb2_200,3CT,split-core 1 %,1,none,150,189.91,5 10 15 20 30,11.36,20 to 30
+bb2_200,3CT,split-core 1 %,1,none,300,189.91,10 15 20 30,11.36,30 to 30
+bb2_200,3CT,split-core 1 %,1,none,450,189.91,15 20 30,11.36,30 to 30
+bb2_200,3CT,split-core 1 %,1,none,50,189.91,5 10 15 20 30,11.36,15 to 30
+bb2_200,3CT,split-core 1 %,2,max,150,189.91,10 15 20 30,11.36,20 to 30
+bb2_200,3CT,split-core 1 %,2,max,300,189.91,20 30,11.36,30 to 30
+bb2_200,3CT,split-core 1 %,2,max,450,189.91,30,11.36,none
+bb2_200,3CT,split-core 1 %,2,max,50,189.91,5 10 15 20 30,11.36,15 to 30
+bb2_200,3CT,split-core 1 %,2,median,150,189.91,10 15 20 30,11.36,20 to 30
+bb2_200,3CT,split-core 1 %,2,median,300,189.91,20 30,11.36,30 to 30
+bb2_200,3CT,split-core 1 %,2,median,450,189.91,30,11.36,none
+bb2_200,3CT,split-core 1 %,2,median,50,189.91,5 10 15 20 30,11.36,15 to 30
+bb2_200,3CT,split-core 1 %,2,none,150,189.91,10 15 20 30,11.36,30 to 30
+bb2_200,3CT,split-core 1 %,2,none,300,189.91,20 30,11.36,30 to 30
+bb2_200,3CT,split-core 1 %,2,none,450,189.91,30,11.36,none
+bb2_200,3CT,split-core 1 %,2,none,50,189.91,5 10 15 20 30,11.36,15 to 30
+bb2_200,SumCT,summation 3 %,,,,189.91,5 10 15 20 30,11.36,15 to 30
+bb1,3CT,bushing 0.5 %,0.5,none,summer_min,57.38,5 10 15 20 30,9.51,15 to 30
+bb1,3CT,bushing 0.5 %,0.5,none,winter_peak,57.38,5 10 15 20 30,9.51,15 to 30
+bb1,3CT,bushing 0.5 %,1,none,summer_min,57.38,5 10 15 20 30,9.51,15 to 30
+bb1,3CT,bushing 0.5 %,1,none,winter_peak,57.38,5 10 15 20 30,9.51,15 to 30
+bb1,3CT,bushing 0.5 %,2,none,summer_min,57.38,5 10 15 20 30,9.51,15 to 30
+bb1,3CT,bushing 0.5 %,2,none,winter_peak,57.38,5 10 15 20 30,9.51,15 to 30
+bb1,3CT,split-core 1 %,0,none,summer_min,57.38,5 10 15 20 30,9.51,15 to 30
+bb1,3CT,split-core 1 %,0,none,winter_peak,57.38,5 10 15 20 30,9.51,15 to 30
+bb1,3CT,split-core 1 %,0.5,max,summer_min,57.38,5 10 15 20 30,9.51,15 to 30
+bb1,3CT,split-core 1 %,0.5,max,winter_peak,57.38,5 10 15 20 30,9.51,15 to 30
+bb1,3CT,split-core 1 %,0.5,median,summer_min,57.38,5 10 15 20 30,9.51,15 to 30
+bb1,3CT,split-core 1 %,0.5,median,winter_peak,57.38,5 10 15 20 30,9.51,15 to 30
+bb1,3CT,split-core 1 %,0.5,none,summer_min,57.38,5 10 15 20 30,9.51,15 to 30
+bb1,3CT,split-core 1 %,0.5,none,winter_peak,57.38,5 10 15 20 30,9.51,15 to 30
+bb1,3CT,split-core 1 %,1,max,summer_min,57.38,5 10 15 20 30,9.51,15 to 30
+bb1,3CT,split-core 1 %,1,max,winter_peak,57.38,5 10 15 20 30,9.51,15 to 30
+bb1,3CT,split-core 1 %,1,median,summer_min,57.38,5 10 15 20 30,9.51,15 to 30
+bb1,3CT,split-core 1 %,1,median,winter_peak,57.38,5 10 15 20 30,9.51,15 to 30
+bb1,3CT,split-core 1 %,1,none,summer_min,57.38,5 10 15 20 30,9.51,15 to 30
+bb1,3CT,split-core 1 %,1,none,winter_peak,57.38,5 10 15 20 30,9.51,15 to 30
+bb1,3CT,split-core 1 %,2,max,summer_min,57.38,5 10 15 20 30,9.51,15 to 30
+bb1,3CT,split-core 1 %,2,max,winter_peak,57.38,5 10 15 20 30,9.51,15 to 30
+bb1,3CT,split-core 1 %,2,median,summer_min,57.38,5 10 15 20 30,9.51,15 to 30
+bb1,3CT,split-core 1 %,2,median,winter_peak,57.38,5 10 15 20 30,9.51,15 to 30
+bb1,3CT,split-core 1 %,2,none,summer_min,57.38,5 10 15 20 30,9.51,15 to 30
+bb1,3CT,split-core 1 %,2,none,winter_peak,57.38,5 10 15 20 30,9.51,15 to 30
+bb1,SumCT,summation 3 %,,,,57.38,5 10 15 20 30,9.51,10 to 30
+bb1_80,3CT,bushing 0.5 %,0.5,none,150,77.24,5 10 15 20 30,9.53,15 to 30
+bb1_80,3CT,bushing 0.5 %,0.5,none,300,77.24,10 15 20 30,9.53,15 to 30
+bb1_80,3CT,bushing 0.5 %,0.5,none,450,77.24,10 15 20 30,9.53,20 to 30
+bb1_80,3CT,bushing 0.5 %,0.5,none,50,77.24,5 10 15 20 30,9.53,15 to 30
+bb1_80,3CT,bushing 0.5 %,1,none,150,77.24,5 10 15 20 30,9.53,15 to 30
+bb1_80,3CT,bushing 0.5 %,1,none,300,77.24,10 15 20 30,9.53,20 to 30
+bb1_80,3CT,bushing 0.5 %,1,none,450,77.24,15 20 30,9.53,30 to 30
+bb1_80,3CT,bushing 0.5 %,1,none,50,77.24,5 10 15 20 30,9.53,15 to 30
+bb1_80,3CT,bushing 0.5 %,2,none,150,77.24,10 15 20 30,9.53,20 to 30
+bb1_80,3CT,bushing 0.5 %,2,none,300,77.24,20 30,9.53,30 to 30
+bb1_80,3CT,bushing 0.5 %,2,none,450,77.24,30,9.53,none
+bb1_80,3CT,bushing 0.5 %,2,none,50,77.24,5 10 15 20 30,9.53,15 to 30
+bb1_80,3CT,split-core 1 %,0,none,150,77.24,5 10 15 20 30,9.53,15 to 30
+bb1_80,3CT,split-core 1 %,0,none,300,77.24,5 10 15 20 30,9.53,15 to 30
+bb1_80,3CT,split-core 1 %,0,none,450,77.24,10 15 20 30,9.53,20 to 30
+bb1_80,3CT,split-core 1 %,0,none,50,77.24,5 10 15 20 30,9.53,15 to 30
+bb1_80,3CT,split-core 1 %,0.5,max,150,77.24,5 10 15 20 30,9.53,15 to 30
+bb1_80,3CT,split-core 1 %,0.5,max,300,77.24,10 15 20 30,9.53,20 to 30
+bb1_80,3CT,split-core 1 %,0.5,max,450,77.24,15 20 30,9.53,20 to 30
+bb1_80,3CT,split-core 1 %,0.5,max,50,77.24,5 10 15 20 30,9.53,15 to 30
+bb1_80,3CT,split-core 1 %,0.5,median,150,77.24,5 10 15 20 30,9.53,15 to 30
+bb1_80,3CT,split-core 1 %,0.5,median,300,77.24,10 15 20 30,9.53,20 to 30
+bb1_80,3CT,split-core 1 %,0.5,median,450,77.24,15 20 30,9.53,20 to 30
+bb1_80,3CT,split-core 1 %,0.5,median,50,77.24,5 10 15 20 30,9.53,15 to 30
+bb1_80,3CT,split-core 1 %,0.5,none,150,77.24,5 10 15 20 30,9.53,15 to 30
+bb1_80,3CT,split-core 1 %,0.5,none,300,77.24,10 15 20 30,9.53,20 to 30
+bb1_80,3CT,split-core 1 %,0.5,none,450,77.24,15 20 30,9.53,20 to 30
+bb1_80,3CT,split-core 1 %,0.5,none,50,77.24,5 10 15 20 30,9.53,15 to 30
+bb1_80,3CT,split-core 1 %,1,max,150,77.24,10 15 20 30,9.53,15 to 30
+bb1_80,3CT,split-core 1 %,1,max,300,77.24,15 20 30,9.53,20 to 30
+bb1_80,3CT,split-core 1 %,1,max,450,77.24,20 30,9.53,30 to 30
+bb1_80,3CT,split-core 1 %,1,max,50,77.24,5 10 15 20 30,9.53,15 to 30
+bb1_80,3CT,split-core 1 %,1,median,150,77.24,10 15 20 30,9.53,15 to 30
+bb1_80,3CT,split-core 1 %,1,median,300,77.24,15 20 30,9.53,20 to 30
+bb1_80,3CT,split-core 1 %,1,median,450,77.24,20 30,9.53,30 to 30
+bb1_80,3CT,split-core 1 %,1,median,50,77.24,5 10 15 20 30,9.53,15 to 30
+bb1_80,3CT,split-core 1 %,1,none,150,77.24,5 10 15 20 30,9.53,15 to 30
+bb1_80,3CT,split-core 1 %,1,none,300,77.24,10 15 20 30,9.53,20 to 30
+bb1_80,3CT,split-core 1 %,1,none,450,77.24,15 20 30,9.53,30 to 30
+bb1_80,3CT,split-core 1 %,1,none,50,77.24,5 10 15 20 30,9.53,15 to 30
+bb1_80,3CT,split-core 1 %,2,max,150,77.24,10 15 20 30,9.53,20 to 30
+bb1_80,3CT,split-core 1 %,2,max,300,77.24,20 30,9.53,30 to 30
+bb1_80,3CT,split-core 1 %,2,max,450,77.24,30,9.53,none
+bb1_80,3CT,split-core 1 %,2,max,50,77.24,5 10 15 20 30,9.53,15 to 30
+bb1_80,3CT,split-core 1 %,2,median,150,77.24,10 15 20 30,9.53,20 to 30
+bb1_80,3CT,split-core 1 %,2,median,300,77.24,20 30,9.53,30 to 30
+bb1_80,3CT,split-core 1 %,2,median,450,77.24,30,9.53,none
+bb1_80,3CT,split-core 1 %,2,median,50,77.24,5 10 15 20 30,9.53,15 to 30
+bb1_80,3CT,split-core 1 %,2,none,150,77.24,10 15 20 30,9.53,20 to 30
+bb1_80,3CT,split-core 1 %,2,none,300,77.24,20 30,9.53,30 to 30
+bb1_80,3CT,split-core 1 %,2,none,450,77.24,30,9.53,none
+bb1_80,3CT,split-core 1 %,2,none,50,77.24,5 10 15 20 30,9.53,15 to 30
+bb1_80,SumCT,summation 3 %,,,,77.24,5 10 15 20 30,9.53,10 to 30
+bb1_120,3CT,bushing 0.5 %,0.5,none,150,117.46,5 10 15 20 30,9.57,15 to 30
+bb1_120,3CT,bushing 0.5 %,0.5,none,300,117.46,10 15 20 30,9.57,15 to 30
+bb1_120,3CT,bushing 0.5 %,0.5,none,450,117.46,10 15 20 30,9.57,20 to 30
+bb1_120,3CT,bushing 0.5 %,0.5,none,50,117.46,5 10 15 20 30,9.57,15 to 30
+bb1_120,3CT,bushing 0.5 %,1,none,150,117.46,5 10 15 20 30,9.57,15 to 30
+bb1_120,3CT,bushing 0.5 %,1,none,300,117.46,10 15 20 30,9.57,20 to 30
+bb1_120,3CT,bushing 0.5 %,1,none,450,117.46,15 20 30,9.57,30 to 30
+bb1_120,3CT,bushing 0.5 %,1,none,50,117.46,5 10 15 20 30,9.57,15 to 30
+bb1_120,3CT,bushing 0.5 %,2,none,150,117.46,10 15 20 30,9.57,20 to 30
+bb1_120,3CT,bushing 0.5 %,2,none,300,117.46,20 30,9.57,30 to 30
+bb1_120,3CT,bushing 0.5 %,2,none,450,117.46,30,9.57,none
+bb1_120,3CT,bushing 0.5 %,2,none,50,117.46,5 10 15 20 30,9.57,15 to 30
+bb1_120,3CT,split-core 1 %,0,none,150,117.46,5 10 15 20 30,9.57,15 to 30
+bb1_120,3CT,split-core 1 %,0,none,300,117.46,5 10 15 20 30,9.57,15 to 30
+bb1_120,3CT,split-core 1 %,0,none,450,117.46,10 15 20 30,9.57,20 to 30
+bb1_120,3CT,split-core 1 %,0,none,50,117.46,5 10 15 20 30,9.57,15 to 30
+bb1_120,3CT,split-core 1 %,0.5,max,150,117.46,5 10 15 20 30,9.57,15 to 30
+bb1_120,3CT,split-core 1 %,0.5,max,300,117.46,10 15 20 30,9.57,20 to 30
+bb1_120,3CT,split-core 1 %,0.5,max,450,117.46,15 20 30,9.57,20 to 30
+bb1_120,3CT,split-core 1 %,0.5,max,50,117.46,5 10 15 20 30,9.57,15 to 30
+bb1_120,3CT,split-core 1 %,0.5,median,150,117.46,5 10 15 20 30,9.57,15 to 30
+bb1_120,3CT,split-core 1 %,0.5,median,300,117.46,10 15 20 30,9.57,20 to 30
+bb1_120,3CT,split-core 1 %,0.5,median,450,117.46,15 20 30,9.57,20 to 30
+bb1_120,3CT,split-core 1 %,0.5,median,50,117.46,5 10 15 20 30,9.57,15 to 30
+bb1_120,3CT,split-core 1 %,0.5,none,150,117.46,5 10 15 20 30,9.57,15 to 30
+bb1_120,3CT,split-core 1 %,0.5,none,300,117.46,10 15 20 30,9.57,20 to 30
+bb1_120,3CT,split-core 1 %,0.5,none,450,117.46,15 20 30,9.57,20 to 30
+bb1_120,3CT,split-core 1 %,0.5,none,50,117.46,5 10 15 20 30,9.57,15 to 30
+bb1_120,3CT,split-core 1 %,1,max,150,117.46,10 15 20 30,9.57,15 to 30
+bb1_120,3CT,split-core 1 %,1,max,300,117.46,15 20 30,9.57,20 to 30
+bb1_120,3CT,split-core 1 %,1,max,450,117.46,20 30,9.57,30 to 30
+bb1_120,3CT,split-core 1 %,1,max,50,117.46,5 10 15 20 30,9.57,15 to 30
+bb1_120,3CT,split-core 1 %,1,median,150,117.46,10 15 20 30,9.57,15 to 30
+bb1_120,3CT,split-core 1 %,1,median,300,117.46,15 20 30,9.57,20 to 30
+bb1_120,3CT,split-core 1 %,1,median,450,117.46,20 30,9.57,30 to 30
+bb1_120,3CT,split-core 1 %,1,median,50,117.46,5 10 15 20 30,9.57,15 to 30
+bb1_120,3CT,split-core 1 %,1,none,150,117.46,10 15 20 30,9.57,15 to 30
+bb1_120,3CT,split-core 1 %,1,none,300,117.46,15 20 30,9.57,20 to 30
+bb1_120,3CT,split-core 1 %,1,none,450,117.46,20 30,9.57,30 to 30
+bb1_120,3CT,split-core 1 %,1,none,50,117.46,5 10 15 20 30,9.57,15 to 30
+bb1_120,3CT,split-core 1 %,2,max,150,117.46,10 15 20 30,9.57,20 to 30
+bb1_120,3CT,split-core 1 %,2,max,300,117.46,20 30,9.57,30 to 30
+bb1_120,3CT,split-core 1 %,2,max,450,117.46,30,9.57,none
+bb1_120,3CT,split-core 1 %,2,max,50,117.46,5 10 15 20 30,9.57,15 to 30
+bb1_120,3CT,split-core 1 %,2,median,150,117.46,10 15 20 30,9.57,20 to 30
+bb1_120,3CT,split-core 1 %,2,median,300,117.46,20 30,9.57,30 to 30
+bb1_120,3CT,split-core 1 %,2,median,450,117.46,30,9.57,none
+bb1_120,3CT,split-core 1 %,2,median,50,117.46,5 10 15 20 30,9.57,15 to 30
+bb1_120,3CT,split-core 1 %,2,none,150,117.46,10 15 20 30,9.57,20 to 30
+bb1_120,3CT,split-core 1 %,2,none,300,117.46,20 30,9.57,30 to 30
+bb1_120,3CT,split-core 1 %,2,none,450,117.46,30,9.57,none
+bb1_120,3CT,split-core 1 %,2,none,50,117.46,5 10 15 20 30,9.57,15 to 30
+bb1_120,SumCT,summation 3 %,,,,117.46,5 10 15 20 30,9.57,10 to 30
+bb1_200,3CT,bushing 0.5 %,0.5,none,150,198.08,5 10 15 20 30,9.64,15 to 30
+bb1_200,3CT,bushing 0.5 %,0.5,none,300,198.08,5 10 15 20 30,9.64,15 to 30
+bb1_200,3CT,bushing 0.5 %,0.5,none,450,198.08,10 15 20 30,9.64,20 to 30
+bb1_200,3CT,bushing 0.5 %,0.5,none,50,198.08,5 10 15 20 30,9.64,15 to 30
+bb1_200,3CT,bushing 0.5 %,1,none,150,198.08,5 10 15 20 30,9.64,15 to 30
+bb1_200,3CT,bushing 0.5 %,1,none,300,198.08,10 15 20 30,9.64,20 to 30
+bb1_200,3CT,bushing 0.5 %,1,none,450,198.08,15 20 30,9.64,30 to 30
+bb1_200,3CT,bushing 0.5 %,1,none,50,198.08,5 10 15 20 30,9.64,15 to 30
+bb1_200,3CT,bushing 0.5 %,2,none,150,198.08,10 15 20 30,9.64,20 to 30
+bb1_200,3CT,bushing 0.5 %,2,none,300,198.08,20 30,9.64,30 to 30
+bb1_200,3CT,bushing 0.5 %,2,none,450,198.08,30,9.64,none
+bb1_200,3CT,bushing 0.5 %,2,none,50,198.08,5 10 15 20 30,9.64,15 to 30
+bb1_200,3CT,split-core 1 %,0,none,150,198.08,5 10 15 20 30,9.64,15 to 30
+bb1_200,3CT,split-core 1 %,0,none,300,198.08,5 10 15 20 30,9.64,15 to 30
+bb1_200,3CT,split-core 1 %,0,none,450,198.08,10 15 20 30,9.64,20 to 30
+bb1_200,3CT,split-core 1 %,0,none,50,198.08,5 10 15 20 30,9.64,15 to 30
+bb1_200,3CT,split-core 1 %,0.5,max,150,198.08,5 10 15 20 30,9.64,15 to 30
+bb1_200,3CT,split-core 1 %,0.5,max,300,198.08,10 15 20 30,9.64,20 to 30
+bb1_200,3CT,split-core 1 %,0.5,max,450,198.08,15 20 30,9.64,20 to 30
+bb1_200,3CT,split-core 1 %,0.5,max,50,198.08,5 10 15 20 30,9.64,15 to 30
+bb1_200,3CT,split-core 1 %,0.5,median,150,198.08,5 10 15 20 30,9.64,15 to 30
+bb1_200,3CT,split-core 1 %,0.5,median,300,198.08,10 15 20 30,9.64,20 to 30
+bb1_200,3CT,split-core 1 %,0.5,median,450,198.08,15 20 30,9.64,20 to 30
+bb1_200,3CT,split-core 1 %,0.5,median,50,198.08,5 10 15 20 30,9.64,15 to 30
+bb1_200,3CT,split-core 1 %,0.5,none,150,198.08,5 10 15 20 30,9.64,15 to 30
+bb1_200,3CT,split-core 1 %,0.5,none,300,198.08,10 15 20 30,9.64,20 to 30
+bb1_200,3CT,split-core 1 %,0.5,none,450,198.08,15 20 30,9.64,20 to 30
+bb1_200,3CT,split-core 1 %,0.5,none,50,198.08,5 10 15 20 30,9.64,15 to 30
+bb1_200,3CT,split-core 1 %,1,max,150,198.08,10 15 20 30,9.64,15 to 30
+bb1_200,3CT,split-core 1 %,1,max,300,198.08,15 20 30,9.64,20 to 30
+bb1_200,3CT,split-core 1 %,1,max,450,198.08,20 30,9.64,30 to 30
+bb1_200,3CT,split-core 1 %,1,max,50,198.08,5 10 15 20 30,9.64,15 to 30
+bb1_200,3CT,split-core 1 %,1,median,150,198.08,10 15 20 30,9.64,15 to 30
+bb1_200,3CT,split-core 1 %,1,median,300,198.08,15 20 30,9.64,20 to 30
+bb1_200,3CT,split-core 1 %,1,median,450,198.08,20 30,9.64,30 to 30
+bb1_200,3CT,split-core 1 %,1,median,50,198.08,5 10 15 20 30,9.64,15 to 30
+bb1_200,3CT,split-core 1 %,1,none,150,198.08,10 15 20 30,9.64,15 to 30
+bb1_200,3CT,split-core 1 %,1,none,300,198.08,15 20 30,9.64,20 to 30
+bb1_200,3CT,split-core 1 %,1,none,450,198.08,20 30,9.64,30 to 30
+bb1_200,3CT,split-core 1 %,1,none,50,198.08,5 10 15 20 30,9.64,15 to 30
+bb1_200,3CT,split-core 1 %,2,max,150,198.08,10 15 20 30,9.64,20 to 30
+bb1_200,3CT,split-core 1 %,2,max,300,198.08,20 30,9.64,30 to 30
+bb1_200,3CT,split-core 1 %,2,max,450,198.08,30,9.64,none
+bb1_200,3CT,split-core 1 %,2,max,50,198.08,5 10 15 20 30,9.64,15 to 30
+bb1_200,3CT,split-core 1 %,2,median,150,198.08,10 15 20 30,9.64,20 to 30
+bb1_200,3CT,split-core 1 %,2,median,300,198.08,20 30,9.64,30 to 30
+bb1_200,3CT,split-core 1 %,2,median,450,198.08,30,9.64,none
+bb1_200,3CT,split-core 1 %,2,median,50,198.08,5 10 15 20 30,9.64,15 to 30
+bb1_200,3CT,split-core 1 %,2,none,150,198.08,10 15 20 30,9.64,20 to 30
+bb1_200,3CT,split-core 1 %,2,none,300,198.08,20 30,9.64,30 to 30
+bb1_200,3CT,split-core 1 %,2,none,450,198.08,30,9.64,none
+bb1_200,3CT,split-core 1 %,2,none,50,198.08,5 10 15 20 30,9.64,15 to 30
+bb1_200,SumCT,summation 3 %,,,,198.08,5 10 15 20 30,9.64,10 to 30
+coupled,3CT,bushing 0.5 %,0.5,none,summer_min,71.58,5 10 15 20 30,11.23,15 to 30
+coupled,3CT,bushing 0.5 %,0.5,none,winter_peak,71.58,5 10 15 20 30,11.23,15 to 30
+coupled,3CT,bushing 0.5 %,1,none,summer_min,71.58,5 10 15 20 30,11.23,15 to 30
+coupled,3CT,bushing 0.5 %,1,none,winter_peak,71.58,5 10 15 20 30,11.23,15 to 30
+coupled,3CT,bushing 0.5 %,2,none,summer_min,71.58,5 10 15 20 30,11.23,15 to 30
+coupled,3CT,bushing 0.5 %,2,none,winter_peak,71.58,5 10 15 20 30,11.23,20 to 30
+coupled,3CT,split-core 1 %,0,none,summer_min,71.58,5 10 15 20 30,11.23,15 to 30
+coupled,3CT,split-core 1 %,0,none,winter_peak,71.58,5 10 15 20 30,11.23,15 to 30
+coupled,3CT,split-core 1 %,0.5,max,summer_min,71.58,5 10 15 20 30,11.23,15 to 30
+coupled,3CT,split-core 1 %,0.5,max,winter_peak,71.58,5 10 15 20 30,11.23,15 to 30
+coupled,3CT,split-core 1 %,0.5,median,summer_min,71.58,5 10 15 20 30,11.23,15 to 30
+coupled,3CT,split-core 1 %,0.5,median,winter_peak,71.58,5 10 15 20 30,11.23,15 to 30
+coupled,3CT,split-core 1 %,0.5,none,summer_min,71.58,5 10 15 20 30,11.23,15 to 30
+coupled,3CT,split-core 1 %,0.5,none,winter_peak,71.58,5 10 15 20 30,11.23,15 to 30
+coupled,3CT,split-core 1 %,1,max,summer_min,71.58,5 10 15 20 30,11.23,15 to 30
+coupled,3CT,split-core 1 %,1,max,winter_peak,71.58,5 10 15 20 30,11.23,15 to 30
+coupled,3CT,split-core 1 %,1,median,summer_min,71.58,5 10 15 20 30,11.23,15 to 30
+coupled,3CT,split-core 1 %,1,median,winter_peak,71.58,5 10 15 20 30,11.23,15 to 30
+coupled,3CT,split-core 1 %,1,none,summer_min,71.58,5 10 15 20 30,11.23,15 to 30
+coupled,3CT,split-core 1 %,1,none,winter_peak,71.58,5 10 15 20 30,11.23,15 to 30
+coupled,3CT,split-core 1 %,2,max,summer_min,71.58,5 10 15 20 30,11.23,15 to 30
+coupled,3CT,split-core 1 %,2,max,winter_peak,71.58,5 10 15 20 30,11.23,20 to 30
+coupled,3CT,split-core 1 %,2,median,summer_min,71.58,5 10 15 20 30,11.23,15 to 30
+coupled,3CT,split-core 1 %,2,median,winter_peak,71.58,5 10 15 20 30,11.23,20 to 30
+coupled,3CT,split-core 1 %,2,none,summer_min,71.58,5 10 15 20 30,11.23,15 to 30
+coupled,3CT,split-core 1 %,2,none,winter_peak,71.58,5 10 15 20 30,11.23,20 to 30
+coupled,SumCT,summation 3 %,,,,71.58,5 10 15 20 30,11.23,15 to 30
+post02,3CT,bushing 0.5 %,0.5,none,summer_min,57.38,5 10 15 20 30,9.51,15 to 30
+post02,3CT,bushing 0.5 %,0.5,none,winter_peak,57.38,5 10 15 20 30,9.51,15 to 30
+post02,3CT,bushing 0.5 %,1,none,summer_min,57.38,5 10 15 20 30,9.51,15 to 30
+post02,3CT,bushing 0.5 %,1,none,winter_peak,57.38,5 10 15 20 30,9.51,15 to 30
+post02,3CT,bushing 0.5 %,2,none,summer_min,57.38,5 10 15 20 30,9.51,15 to 30
+post02,3CT,bushing 0.5 %,2,none,winter_peak,57.38,5 10 15 20 30,9.51,15 to 30
+post02,3CT,split-core 1 %,0,none,summer_min,57.38,5 10 15 20 30,9.51,15 to 30
+post02,3CT,split-core 1 %,0,none,winter_peak,57.38,5 10 15 20 30,9.51,15 to 30
+post02,3CT,split-core 1 %,0.5,max,summer_min,57.38,5 10 15 20 30,9.51,15 to 30
+post02,3CT,split-core 1 %,0.5,max,winter_peak,57.38,5 10 15 20 30,9.51,15 to 30
+post02,3CT,split-core 1 %,0.5,median,summer_min,57.38,5 10 15 20 30,9.51,15 to 30
+post02,3CT,split-core 1 %,0.5,median,winter_peak,57.38,5 10 15 20 30,9.51,15 to 30
+post02,3CT,split-core 1 %,0.5,none,summer_min,57.38,5 10 15 20 30,9.51,15 to 30
+post02,3CT,split-core 1 %,0.5,none,winter_peak,57.38,5 10 15 20 30,9.51,15 to 30
+post02,3CT,split-core 1 %,1,max,summer_min,57.38,5 10 15 20 30,9.51,15 to 30
+post02,3CT,split-core 1 %,1,max,winter_peak,57.38,5 10 15 20 30,9.51,15 to 30
+post02,3CT,split-core 1 %,1,median,summer_min,57.38,5 10 15 20 30,9.51,15 to 30
+post02,3CT,split-core 1 %,1,median,winter_peak,57.38,5 10 15 20 30,9.51,15 to 30
+post02,3CT,split-core 1 %,1,none,summer_min,57.38,5 10 15 20 30,9.51,15 to 30
+post02,3CT,split-core 1 %,1,none,winter_peak,57.38,5 10 15 20 30,9.51,15 to 30
+post02,3CT,split-core 1 %,2,max,summer_min,57.38,5 10 15 20 30,9.51,15 to 30
+post02,3CT,split-core 1 %,2,max,winter_peak,57.38,5 10 15 20 30,9.51,15 to 30
+post02,3CT,split-core 1 %,2,median,summer_min,57.38,5 10 15 20 30,9.51,15 to 30
+post02,3CT,split-core 1 %,2,median,winter_peak,57.38,5 10 15 20 30,9.51,15 to 30
+post02,3CT,split-core 1 %,2,none,summer_min,57.38,5 10 15 20 30,9.51,15 to 30
+post02,3CT,split-core 1 %,2,none,winter_peak,57.38,5 10 15 20 30,9.51,15 to 30
+post02,SumCT,summation 3 %,,,,57.38,5 10 15 20 30,9.51,10 to 30
+post06,3CT,bushing 0.5 %,0.5,none,summer_min,53.64,5 10 15 20 30,9.50,15 to 30
+post06,3CT,bushing 0.5 %,0.5,none,winter_peak,53.64,5 10 15 20 30,9.50,15 to 30
+post06,3CT,bushing 0.5 %,1,none,summer_min,53.64,5 10 15 20 30,9.50,15 to 30
+post06,3CT,bushing 0.5 %,1,none,winter_peak,53.64,5 10 15 20 30,9.50,15 to 30
+post06,3CT,bushing 0.5 %,2,none,summer_min,53.64,5 10 15 20 30,9.50,15 to 30
+post06,3CT,bushing 0.5 %,2,none,winter_peak,53.64,5 10 15 20 30,9.50,15 to 30
+post06,3CT,split-core 1 %,0,none,summer_min,53.64,5 10 15 20 30,9.50,15 to 30
+post06,3CT,split-core 1 %,0,none,winter_peak,53.64,5 10 15 20 30,9.50,15 to 30
+post06,3CT,split-core 1 %,0.5,max,summer_min,53.64,5 10 15 20 30,9.50,15 to 30
+post06,3CT,split-core 1 %,0.5,max,winter_peak,53.64,5 10 15 20 30,9.50,15 to 30
+post06,3CT,split-core 1 %,0.5,median,summer_min,53.64,5 10 15 20 30,9.50,15 to 30
+post06,3CT,split-core 1 %,0.5,median,winter_peak,53.64,5 10 15 20 30,9.50,15 to 30
+post06,3CT,split-core 1 %,0.5,none,summer_min,53.64,5 10 15 20 30,9.50,15 to 30
+post06,3CT,split-core 1 %,0.5,none,winter_peak,53.64,5 10 15 20 30,9.50,15 to 30
+post06,3CT,split-core 1 %,1,max,summer_min,53.64,5 10 15 20 30,9.50,15 to 30
+post06,3CT,split-core 1 %,1,max,winter_peak,53.64,5 10 15 20 30,9.50,15 to 30
+post06,3CT,split-core 1 %,1,median,summer_min,53.64,5 10 15 20 30,9.50,15 to 30
+post06,3CT,split-core 1 %,1,median,winter_peak,53.64,5 10 15 20 30,9.50,15 to 30
+post06,3CT,split-core 1 %,1,none,summer_min,53.64,5 10 15 20 30,9.50,15 to 30
+post06,3CT,split-core 1 %,1,none,winter_peak,53.64,5 10 15 20 30,9.50,15 to 30
+post06,3CT,split-core 1 %,2,max,summer_min,53.64,5 10 15 20 30,9.50,15 to 30
+post06,3CT,split-core 1 %,2,max,winter_peak,53.64,5 10 15 20 30,9.50,15 to 30
+post06,3CT,split-core 1 %,2,median,summer_min,53.64,5 10 15 20 30,9.50,15 to 30
+post06,3CT,split-core 1 %,2,median,winter_peak,53.64,5 10 15 20 30,9.50,15 to 30
+post06,3CT,split-core 1 %,2,none,summer_min,53.64,5 10 15 20 30,9.50,15 to 30
+post06,3CT,split-core 1 %,2,none,winter_peak,53.64,5 10 15 20 30,9.50,15 to 30
+post06,SumCT,summation 3 %,,,,53.64,5 10 15 20 30,9.50,10 to 30
+post11,3CT,bushing 0.5 %,0.5,none,summer_min,54.64,5 10 15 20 30,9.50,15 to 30
+post11,3CT,bushing 0.5 %,0.5,none,winter_peak,54.64,5 10 15 20 30,9.50,15 to 30
+post11,3CT,bushing 0.5 %,1,none,summer_min,54.64,5 10 15 20 30,9.50,15 to 30
+post11,3CT,bushing 0.5 %,1,none,winter_peak,54.64,5 10 15 20 30,9.50,15 to 30
+post11,3CT,bushing 0.5 %,2,none,summer_min,54.64,5 10 15 20 30,9.50,15 to 30
+post11,3CT,bushing 0.5 %,2,none,winter_peak,54.64,5 10 15 20 30,9.50,15 to 30
+post11,3CT,split-core 1 %,0,none,summer_min,54.64,5 10 15 20 30,9.50,15 to 30
+post11,3CT,split-core 1 %,0,none,winter_peak,54.64,5 10 15 20 30,9.50,15 to 30
+post11,3CT,split-core 1 %,0.5,max,summer_min,54.64,5 10 15 20 30,9.50,15 to 30
+post11,3CT,split-core 1 %,0.5,max,winter_peak,54.64,5 10 15 20 30,9.50,15 to 30
+post11,3CT,split-core 1 %,0.5,median,summer_min,54.64,5 10 15 20 30,9.50,15 to 30
+post11,3CT,split-core 1 %,0.5,median,winter_peak,54.64,5 10 15 20 30,9.50,15 to 30
+post11,3CT,split-core 1 %,0.5,none,summer_min,54.64,5 10 15 20 30,9.50,15 to 30
+post11,3CT,split-core 1 %,0.5,none,winter_peak,54.64,5 10 15 20 30,9.50,15 to 30
+post11,3CT,split-core 1 %,1,max,summer_min,54.64,5 10 15 20 30,9.50,15 to 30
+post11,3CT,split-core 1 %,1,max,winter_peak,54.64,5 10 15 20 30,9.50,15 to 30
+post11,3CT,split-core 1 %,1,median,summer_min,54.64,5 10 15 20 30,9.50,15 to 30
+post11,3CT,split-core 1 %,1,median,winter_peak,54.64,5 10 15 20 30,9.50,15 to 30
+post11,3CT,split-core 1 %,1,none,summer_min,54.64,5 10 15 20 30,9.50,15 to 30
+post11,3CT,split-core 1 %,1,none,winter_peak,54.64,5 10 15 20 30,9.50,15 to 30
+post11,3CT,split-core 1 %,2,max,summer_min,54.64,5 10 15 20 30,9.50,15 to 30
+post11,3CT,split-core 1 %,2,max,winter_peak,54.64,5 10 15 20 30,9.50,15 to 30
+post11,3CT,split-core 1 %,2,median,summer_min,54.64,5 10 15 20 30,9.50,15 to 30
+post11,3CT,split-core 1 %,2,median,winter_peak,54.64,5 10 15 20 30,9.50,15 to 30
+post11,3CT,split-core 1 %,2,none,summer_min,54.64,5 10 15 20 30,9.50,15 to 30
+post11,3CT,split-core 1 %,2,none,winter_peak,54.64,5 10 15 20 30,9.50,15 to 30
+post11,SumCT,summation 3 %,,,,54.64,5 10 15 20 30,9.50,10 to 30
+post15,3CT,bushing 0.5 %,0.5,none,summer_min,,,9.51,no ComPass on any path
+post15,3CT,bushing 0.5 %,0.5,none,winter_peak,,,9.51,no ComPass on any path
+post15,3CT,bushing 0.5 %,1,none,summer_min,,,9.51,no ComPass on any path
+post15,3CT,bushing 0.5 %,1,none,winter_peak,,,9.51,no ComPass on any path
+post15,3CT,bushing 0.5 %,2,none,summer_min,,,9.51,no ComPass on any path
+post15,3CT,bushing 0.5 %,2,none,winter_peak,,,9.51,no ComPass on any path
+post15,3CT,split-core 1 %,0,none,summer_min,,,9.51,no ComPass on any path
+post15,3CT,split-core 1 %,0,none,winter_peak,,,9.51,no ComPass on any path
+post15,3CT,split-core 1 %,0.5,max,summer_min,,,9.51,no ComPass on any path
+post15,3CT,split-core 1 %,0.5,max,winter_peak,,,9.51,no ComPass on any path
+post15,3CT,split-core 1 %,0.5,median,summer_min,,,9.51,no ComPass on any path
+post15,3CT,split-core 1 %,0.5,median,winter_peak,,,9.51,no ComPass on any path
+post15,3CT,split-core 1 %,0.5,none,summer_min,,,9.51,no ComPass on any path
+post15,3CT,split-core 1 %,0.5,none,winter_peak,,,9.51,no ComPass on any path
+post15,3CT,split-core 1 %,1,max,summer_min,,,9.51,no ComPass on any path
+post15,3CT,split-core 1 %,1,max,winter_peak,,,9.51,no ComPass on any path
+post15,3CT,split-core 1 %,1,median,summer_min,,,9.51,no ComPass on any path
+post15,3CT,split-core 1 %,1,median,winter_peak,,,9.51,no ComPass on any path
+post15,3CT,split-core 1 %,1,none,summer_min,,,9.51,no ComPass on any path
+post15,3CT,split-core 1 %,1,none,winter_peak,,,9.51,no ComPass on any path
+post15,3CT,split-core 1 %,2,max,summer_min,,,9.51,no ComPass on any path
+post15,3CT,split-core 1 %,2,max,winter_peak,,,9.51,no ComPass on any path
+post15,3CT,split-core 1 %,2,median,summer_min,,,9.51,no ComPass on any path
+post15,3CT,split-core 1 %,2,median,winter_peak,,,9.51,no ComPass on any path
+post15,3CT,split-core 1 %,2,none,summer_min,,,9.51,no ComPass on any path
+post15,3CT,split-core 1 %,2,none,winter_peak,,,9.51,no ComPass on any path
+post15,SumCT,summation 3 %,,,,,,9.51,no ComPass on any path

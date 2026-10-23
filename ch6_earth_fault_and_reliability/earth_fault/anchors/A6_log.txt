@@ -1,0 +1,87 @@
+info - Operation Scenario    winter_peak_boiler_off activated.
+warn - The operation scenario data is incomplete (see operation scenario report for details).
+info - 'Recording' expansion stages at study time 01-Jan-25 00:00:00:
+         * Folder '   Network Data               ': '   Expansion Stage       ' (Activation Time 01-Jan-25 00:00:00) in variation '   EF_variant3_Cadd      '.
+info - Element '   Landsnet_66kV' is local reference in separated area of '   A20_66kV'
+warn -    2 area(s) are unsupplied.
+info - Grid split into 4 isolated areas
+info - Calculating load flow...
+info - -------------------------------------------------------------------------------------
+info - Start Newton-Raphson Algorithm...
+info - |------|-------------------------------------|-------------------------------------|-------------------------------------|----------------------------------------------|
+info - | Iter.| Max. bus equation error (MV)        | Max. bus equation error (LV)        | Max. model equation error           | Iteration step size                          |
+info - |------|-------------------------------------|-------------------------------------|-------------------------------------|----------------------------------------------|
+info - |    0 |    A20_BB1                 9.16e+00 |    D1005_LV02_0.4kV        4.01e-01 |    Landsnet_66kV           2.24e-16 |                                              |
+info - |    1 |    A20_BB1                 1.13e-10 |    D1005_LV02_0.4kV        3.29e-04 |    Load_D1005_S-11-02      2.99e-04 | Max. Step: 1,00e+00; Linesearch: 1,00e+00    |
+info - |    2 |    A20_BB1                 1.06e-10 |    D1005_LV02_0.4kV        2.33e-10 |    Load_D1005_S-11-02      2.33e-10 | Max. Step: 1,00e+00; Linesearch: 1,00e+00    |
+info - |------|-------------------------------------|-------------------------------------|-------------------------------------|----------------------------------------------|
+info - Newton-Raphson converged with 2 iterations.
+info - Load flow calculation successful.
+info - -------------------------------------------------------------------------------------
+            Report of Control Condition for Relevant Controllers
+       -------------------------------------------------------------------------------------
+info - Control conditions for all controllers of interest are fulfilled.
+warn - Scaling factor for load/generation circles must be adapted: See layer "   Load/generation distribution"
+info - Short-circuit calculation started...
+info - Calculating pre-fault load flow...
+info - Short-circuit calculated at Line VeiturRegion\1023-1050A02 (3 x 150 Al + 70 6kV).ElmLne
+info - Short-circuit calculation successfully executed.
+-----------------------------------------------------------------------------------------------------------------------------------
+| Short-Circuit Calculation complete                                       Single Phase to Ground   / Max. Short-Circuit Currents |
+-----------------------------------------------------------------------------------------------------------------------------------
+|                                        |                                         | Short-Circuit Duration                       |
+|                                        |                                         |    Break Time                        0,10 s  |
+|                                        |                                         |    Fault Clearing Time (Ith)         1,00 s  |
+|                                        |                                         |                                              |
+|                                        |                                         |                                              |
+|                                        |                                         |                                              |
+-----------------------------------------------------------------------------------------------------------------------------------
+| Fault Distance from       Terminal i:    ...  Data\VeiturRegion\J_1023-1050A01                                                  |
+| Line:     \Guðjón\Akranes_11kV_benchmark\Network Model\Network Data\VeiturRegion\1023-1050A02 (3 x 150 Al + 70 6kV)    50,00 %  |
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+| Grid: VeiturRegion                                                    | System Stage: VeiturRegion                              |
+-----------------------------------------------------------------------------------------------------------------------------------
+|                         rtd.V.     Voltage       c-       Sk"          Ik"            Ik'         ip      Ib       Sb      EFF  |
+|                          [kV]   [kV]   [deg]  Factor     [MVA]     [kA]  [deg]    [kA]  [deg]    [kA]    [kA]     [kA]     [-]  |
+-----------------------------------------------------------------------------------------------------------------------------------
+|Fault Location:                                                                                                                  |
+|  1023-1050A02 (3 x 15  A        0,00    0,00              0,76     0,12   87,4    0,12  87,4     0,19    0,12     0,17     0,00 |
+|                        B       11,16 -151,33              0,00     0,00    0,0    0,00   0,0     0,00    0,00     0,00     1,74 |
+|                        C       11,26  149,32              0,00     0,00    0,0    0,00   0,0     0,00    0,00     0,00     1,76 |
+-----------------------------------------------------------------------------------------------------------------------------------
+|between:                                                                                                                         |
+|J_1023-1/VeiturRe        11,00   0,01   83,36                                                                                    |
+|                                11,16 -151,34                                                                                    |
+|                                11,26  149,30                                                                                    |
+|                                                                                                                                 |
+|  1023-1050A01 (3 x 24  1023-1                       A     0,74     0,12 -120,7                                                  |
+|                                                     B     0,37     0,06   45,4                                                  |
+|                                                     C     0,34     0,05  -75,2                                                  |
+|                                                                                                                                 |
+|  1023-1050A02 (3 x 15  J_1023-1050A02               A     0,74     0,12   59,3                                                  |
+|                                                     B     0,37     0,06 -134,6                                                  |
+|                                                     C     0,34     0,05  104,8                                                  |
+|                                                                                                                                 |
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+| Grid: VeiturRegion                                                    | System Stage: VeiturRegion                              |
+-----------------------------------------------------------------------------------------------------------------------------------
+|                         rtd.V.     Voltage       c-       Sk"          Ik"            Ik'         ip      Ib       Sb      EFF  |
+|                          [kV]   [kV]   [deg]  Factor     [MVA]     [kA]  [deg]    [kA]  [deg]    [kA]    [kA]     [kA]     [-]  |
+-----------------------------------------------------------------------------------------------------------------------------------
+|and:                                                                                                                             |
+|J_1023-1/VeiturRe        11,00   0,00   170,58                                                                                   |
+|                                11,16  -151,34                                                                                   |
+|                                11,26   149,32                                                                                   |
+|                                                                                                                                 |
+|  1023-1050A02 (3 x 15  J_1023-1050A01               A     0,37     0,06  160,4                                                  |
+|                                                     B     0,37     0,06   45,1                                                  |
+|                                                     C     0,34     0,05  -75,5                                                  |
+|                                                                                                                                 |
+|  1023-1050A03 (3 x 24  1050-1                       A     0,37     0,06  -19,6                                                  |
+|                                                     B     0,37     0,06 -134,9                                                  |
+|                                                     C     0,34     0,05  104,5                                                  |
+|                                                                                                                                 |
+-----------------------------------------------------------------------------------------------------------------------------------
+warn - Scaling factor for load/generation circles must be adapted: See layer "   Load/generation distribution"

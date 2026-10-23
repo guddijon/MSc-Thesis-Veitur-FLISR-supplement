@@ -1,0 +1,8 @@
+date,feeder,event_kind,trip,response_min,sectionalizing_min,trip_to_first_restoration_min,trip_to_last_restoration_min,final_restoration_log,process_type,customers_interrupted,customer_minutes
+2021-11-03,"19 (+11, 13)",single-feeder,02:31,36,63,99,154,08:15,"(i) crew sectionalizing, trial re-closes",308,33562
+2022-05-09,06,single-feeder,00:01,26,45,71,123,02:03,(i) crew sectionalizing with megger,753,66906
+2022-11-13,22,single-feeder,01:45,29,38,67,116,10:23,(i) crew sectionalizing; two trips,207,23140
+2022-12-26,13 (+08 donor),busbar event,02:20,41,0,41,941,18:01,"(i) crew; busbar-2 event, two cable faults on 13 (08 back 85 min, 13 back 200 min)",1413,485527
+2024-10-14,"11, 06, 05, 19",busbar event,00:39,31,0,31,125,02:45,"busbar-1 event, then crew sectionalizing of circuit 19 (last feeder 120 min)",1035,58074
+2025-02-11,13,single-feeder,04:35,68,22,90,92,06:30,(ii) remote sectionalizing,623,56938
+2025-05-23,22,single-feeder,04:46,52,6,58,478,13:06,"mixed: crew at manual stations, remote tie at D1004",92,5756

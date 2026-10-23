@@ -1,0 +1,61 @@
+{
+ "date": "2026-10-21",
+ "model": "Akranes_11kV_benchmark v1.0.3 (variations DEF-07, DEF-08, DEF-13, deactivated)",
+ "base": "winter_peak_boiler_off, run after the defect injections: R11-116 312.80 A, R11-122 117.38 A, 4 areas, 2 unsupplied, 2 iterations",
+ "rows": {
+  "SCN-07": {
+   "defect": "unresolved cable code: Default_Cable (OR_3A_XLPE_240_12, 0.162 ohm/km, 390 A) on 1002-1003A01, 1001-1002A02, A04, A05 (983 m of 3x70 Cu PILC, 0.316 ohm/km, 195 A)",
+   "ADMS_basis": "36 Akranes aliases without a code are bay stubs and A020-SFAA04; none on this path; representative injection on the cable class of the thesis example",
+   "runs": {
+    "DEF-07 (SCN-07_restored)": {
+     "converged": "2 iterations, 5 areas, 3 unsupplied",
+     "heads": "circuit 22 144.7 A (corrected 144.8)",
+     "loading": "1002-1003A01 7.0 % (corrected 14.1 %) at 27.3 A; 1001-1002A02/A04/A05 5.2 % (corrected 10.3 %) at 20 A",
+     "vmin": "D1058 1.004 pu unchanged; D1026 1.009 pu printed both, sweep +0.0006 pu",
+     "verdict": "unchanged, D1042 stays off"
+    },
+    "DEF-07b (SCN-14_restored)": {
+     "converged": "2 iterations, 4 areas, 2 unsupplied",
+     "heads": "circuit 21 154.5 A (corrected 154.6)",
+     "loading": "1001-1002A02/A04/A05 32.1 % (corrected 64.2-64.3 %) at 125 A; 1002-1003A01 30.3 % (corrected 60.5 %) at 118 A",
+     "vmin": "D1003 1.008 (1.005), D1004 1.007 (1.004), D1005 1.008 (1.005), D1018 1.008 (1.005) pu; D1058 1.004 unchanged",
+     "verdict": "unchanged, complete"
+    }
+   }
+  },
+  "SCN-08": {
+   "defect": "unrated switch: Default_Switch 630 A on A20_R11-122 (CB_1250A_A20) and Cub_D1004_S-11-01_HV (SW_200A_trafo); 1004-1-2 already 630 A",
+   "ADMS_basis": "94 % of switching devices without DPF rating or code; all 266 Akranes devices",
+   "runs": {
+    "DEF-08 (SCN-08_restored)": {
+     "converged": "2 iterations, 4 areas, 2 unsupplied",
+     "heads": "all 151 switch currents identical to the corrected run; circuit 22 117.4 A",
+     "loading": "R11-122 117.4 A: 18.6 % of 630 A against 9.4 % of 1250 A; D1004 transformer bay 16 A: 2.5 % of 630 A against 8.0 % of 200 A (computed from the exported currents and type ratings; the cubicle switch is not 'detailed for calculation' and PowerFactory reports no loading for it)",
+     "vmin": "unchanged",
+     "verdict": "unchanged, complete"
+    }
+   }
+  },
+  "SCN-13": {
+   "defect": "null DPA Length: A020-1019A03 and A04 set to 200 m each (GIS 349.6 m each); circuit 13 head 1142 m -> 843 m",
+   "ADMS_basis": "both sections have no length in the ADMS section table; the two D1049 bay stubs CABLE_7236/7237 have neither code nor length but are not separate elements in the model and D1049 is the faulted station",
+   "runs": {
+    "DEF-13 (SCN-13_restored)": {
+     "converged": "2 iterations, 6 areas, 4 unsupplied",
+     "heads": "circuit 13 103.4 A (corrected 103.3)",
+     "loading": "A020-1019A05 53.2 % unchanged; no line changed by 1 % or more",
+     "vmin": "D1061 1.003 pu (corrected 1.002); D1023, D1025, D1041, D1050, D1051, D1058, D1062, D1066 all +0.001 pu",
+     "verdict": "unchanged, D1049 stays off"
+    },
+    "DEF-13b (winter_peak_boiler_off)": {
+     "converged": "2 iterations, 4 areas, 2 unsupplied",
+     "heads": "base values; circuit 13 95.9 A (corrected 95.8)",
+     "loading": "unchanged",
+     "vmin": "D1058 1.005 pu (corrected 1.004); whole circuit 13 chain +0.001 pu",
+     "verdict": "n/a"
+    }
+   }
+  }
+ },
+ "sweep_check": "feeder heads of all five defect runs within 0.2 A of the offline sweep expectations (defect_expect.py)"
+}
