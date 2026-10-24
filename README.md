@@ -1,4 +1,5 @@
 # Enabling FLISR in Veitur's ADMS: thesis supplement
+[![DOI](https://zenodo.org/badge/1431395002.svg)](https://doi.org/10.5281/zenodo.23623501)
 
 Supplementary data, models and scripts for the M.Sc. thesis *Enabling FLISR in Veitur's ADMS: DPA Validation and
 Earth-Fault Feasibility* by Guðjón Hafsteinn Kristinsson (Reykjavik University, Iceland School of Energy, 2027).
